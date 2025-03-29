@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     # Initialize map with a global center (adjust based on your data's focus)
-    m = folium.Map(location=[20, 0], zoom_start=2)
+    m = folium.Map(location=[40, -36], zoom_start=4)
     
     # Add markers to the map using coordinates
     for person in data:
