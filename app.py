@@ -1,39 +1,45 @@
-# genealogy_map.py
 from flask import Flask, render_template
 import folium
-from geopy.geocoders import Nominatim
 import os
 
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-    # Initialize map centered on the world
-    m = folium.Map(location=[0, 0], zoom_start=2)
-    
-    # Sample genealogy data (replace with your own)
+    # Initialize map with a global center (adjust based on your data's focus)
+    m = folium.Map(location=[20, 0], zoom_start=2)
+
+    # Genealogy data with precise coordinates (latitude, longitude)
     data = [
-        {"name": "John Doe", "birth": "London", "year": 1800, "color": "red"},
-        {"name": "Jane Doe", "birth": "New York", "year": 1820, "color": "blue"},
-        {"name": "Sam Smith", "birth": "Sydney", "year": 1850, "color": "green"}
+        {"name": "William Bradford",
+         "lat": 53.521446953950715,
+         "lon": -2.363069184807771,
+         "year": 1625,
+         "color": "red"},
+       
+        {"name": "Wilhelm Constanz",
+         "lat": 50.742462619040104, 
+         "lon": 9.197418362001574,
+         "year": 1900,
+         "color": "blue"},
+        
+        {"name": "Samuel Parsons",
+         "lat": 40.89766494234153, 
+         "lon": -72.73183136944137,
+         "year": 1675,
+         "color": "red"}
     ]
-    
-    # Geocode and add markers
-    geolocator = Nominatim(user_agent="genealogy_map")
+
+    # Add markers to the map using coordinates
     for person in data:
-        try:
-            loc = geolocator.geocode(person["birth"])
-            if loc:
-                folium.CircleMarker(
-                    [loc.latitude, loc.longitude],
-                    radius=5,
-                    color=person["color"],
-                    fill=True,
-                    fill_color=person["color"],
-                    popup=f"{person['name']} ({person['year']})"
-                ).add_to(m)
-        except:
-            pass  # Skip if geocoding fails
+        folium.CircleMarker(
+            location=[person["lat"], person["lon"]],
+            radius=5,
+            color=person["color"],
+            fill=True,
+            fill_color=person["color"],
+            popup=f"{person['name']} ({person['year']})"
+        ).add_to(m)
     
     # Render map in HTML template
     return render_template('index.html', map_html=m._repr_html_())
