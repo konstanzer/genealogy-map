@@ -782,8 +782,8 @@
         "color": "purple"
     },
     {
-        "first_name": "Thomas",
-        "last_name": "Newton of Fairfield",
+        "first_name": "Thomas of Fairfield",
+        "last_name": "Newton",
         "birth_year": "1620",
         "birth_place": {
             "name": "Manchester, Cheshire, England",
@@ -6050,5 +6050,328 @@
             "lon": null
         },
         "color": "purple"
+    }
+    {
+        "first_name": "Lady Joanna \"Jane\"",
+        "last_name": "Smith",
+        "birth_year": "1614",
+        "birth_place": {
+            "name": "Narragansett, Wakefield, Rhode Island, Colonial America",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1664",
+        "death_place": {
+            "name": "Long Island City, Queens, New York City, New York, USA",
+            "lat": 40.7455316,
+            "lon": -73.9484995
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Sir Richard",
+        "last_name": "Smith",
+        "birth_year": "1596",
+        "birth_place": {
+            "name": "Thornbury, South Gloucestershire Unitary Authority, Gloucestershire, England",
+            "lat": 51.617258654869346,
+            "lon": -2.4912659797001973
+        },
+        "death_year": "1666",
+        "death_place": {
+            "name": "Wickford, Washington County, Rhode Island, USA",
+            "lat": 41.5739753,
+            "lon": -71.4614464
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Mary",
+        "last_name": "Smith",
+        "birth_year": "1727",
+        "birth_place": {
+            "name": "Scotland",
+            "lat": 56.7861112,
+            "lon": -4.1140518
+        },
+        "death_year": "1797",
+        "death_place": {
+            "name": "White Deer, Northumberland County, Pennsylvania, USA",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Mary T.",
+        "last_name": "Smith",
+        "birth_year": "1648",
+        "birth_place": {
+            "name": "Watertown, Reading, Middlesex, Massachusetts, USA",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1714",
+        "death_place": {
+            "name": "Reading, Middlesex, Massachusetts, USA",
+            "lat": 42.5260297,
+            "lon": -71.1020262
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Captain John",
+        "last_name": "Smith",
+        "birth_year": "1621",
+        "birth_place": {
+            "name": "Dedham, Norfolk, England",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1706",
+        "death_place": {
+            "name": "North Chelsea, Middlesex, Massachusetts",
+            "lat": null,
+            "lon": null
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Temperance",
+        "last_name": "Smith",
+        "birth_year": "1730",
+        "birth_place": {
+            "name": "Lunenburg, Virginia, USA",
+            "lat": 36.9445279,
+            "lon": -78.2562001
+        },
+        "death_year": "1785",
+        "death_place": {
+            "name": "Virginia, United States",
+            "lat": 37.1232245,
+            "lon": -78.4927721
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Lucy",
+        "last_name": "Smith",
+        "birth_year": "1823",
+        "birth_place": {
+            "name": "Middlefield",
+            "lat": 41.5165161,
+            "lon": -72.7120793
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Mary Eleanor \"Mollie\"",
+        "last_name": "Smith",
+        "birth_year": "1872",
+        "birth_place": {
+            "name": "North Carolina, USA",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1928",
+        "death_place": {
+            "name": "Richmond,  Virginia",
+            "lat": 37.5385087,
+            "lon": -77.43428
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Eaton Carl",
+        "last_name": "Smith",
+        "birth_year": "1837",
+        "birth_place": {
+            "name": "Northampton County, North Carolina, USA",
+            "lat": 36.4168078,
+            "lon": -77.3642227
+        },
+        "death_year": "1880",
+        "death_place": {
+            "name": "NorthamptonCo., North Carolina",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Mary  Adeline",
+        "last_name": "Smith",
+        "birth_year": "1846",
+        "birth_place": {
+            "name": "Buncombe County, North Carolina, USA",
+            "lat": 35.6292222,
+            "lon": -82.5255603
+        },
+        "death_year": "1920",
+        "death_place": {
+            "name": "Buncombe County, North Carolina, USA",
+            "lat": 35.6292222,
+            "lon": -82.5255603
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Grace E.",
+        "last_name": "Smith",
+        "birth_year": "1918",
+        "birth_place": {
+            "name": "Litchfield, Herkimer County, New York, United States of America",
+            "lat": 42.977778,
+            "lon": -75.145556
+        },
+        "death_year": "2014",
+        "death_place": {
+            "name": "New Hartford, Oneida County, New York, United States of America",
+            "lat": 43.073653,
+            "lon": -75.287933
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Delano",
+        "last_name": "Smith",
+        "birth_year": "1885",
+        "birth_place": {
+            "name": "Litchfield, Herkimer, New York, United States",
+            "lat": 42.977778,
+            "lon": -75.145556
+        },
+        "death_year": "1953",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Lady Mary",
+        "last_name": "Smith",
+        "birth_year": "1570",
+        "birth_place": {
+            "name": "Caister By Sea, Norfolk, England",
+            "lat": 52.65170531303997,
+            "lon": 1.7136446057554644
+        },
+        "death_year": "1636",
+        "death_place": {
+            "name": "Ormesby St Michael, Great Yarmouth Borough, England",
+            "lat": null,
+            "lon": null
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Temperance",
+        "last_name": "Smith",
+        "birth_year": "1730",
+        "birth_place": {
+            "name": "Lunenburg, Virginia, USA",
+            "lat": 36.9445279,
+            "lon": -78.2562001
+        },
+        "death_year": "1785",
+        "death_place": {
+            "name": "Virginia, United States",
+            "lat": 37.1232245,
+            "lon": -78.4927721
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Anne",
+        "last_name": "Smith",
+        "birth_year": "1543",
+        "birth_place": {
+            "name": "Barnstaple, Devon, England, United Kingdom",
+            "lat": 51.0804057,
+            "lon": -4.0600467
+        },
+        "death_year": "1586",
+        "death_place": {
+            "name": "Barnstaple, shire, Devon, England, United Kingdom",
+            "lat": null,
+            "lon": null
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Sir John Grantham",
+        "last_name": "Smith",
+        "birth_year": "1515",
+        "birth_place": {
+            "name": "Warwickshire, England",
+            "lat": 52.32130635,
+            "lon": -1.5536905536661392
+        },
+        "death_year": "1562",
+        "death_place": {
+            "name": "Chardstock, Dorset, England",
+            "lat": null,
+            "lon": null
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Mary Ann",
+        "last_name": "Smith",
+        "birth_year": "1642",
+        "birth_place": {
+            "name": "Nominy Creek, Westmoreland, Virginia, Colonial America",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1707",
+        "death_place": {
+            "name": "Nominy Creek, Cople Parish, Westmoreland, Virginia",
+            "lat": null,
+            "lon": null
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Elizabeth 14GGM",
+        "last_name": "Smith",
+        "birth_year": "1506",
+        "birth_place": {
+            "name": "Buckinghamshire, Buckinghamshire, England, United Kingdom",
+            "lat": 51.7834994,
+            "lon": -0.8946440535649794
+        },
+        "death_year": "1560",
+        "death_place": {
+            "name": "Buckinghamshire, Buckinghamshire, England, United Kingdom",
+            "lat": 51.7834994,
+            "lon": -0.8946440535649794
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Alethea",
+        "last_name": "Smith",
+        "birth_year": "1715",
+        "birth_place": {
+            "name": "Norwich, New London, Connecticut, United States",
+            "lat": 41.53811715,
+            "lon": -72.08038405156037
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Norwich, New London, Connecticut, United States",
+            "lat": 41.53811715,
+            "lon": -72.08038405156037
+        },
+        "color": "green"
     }
 ]
