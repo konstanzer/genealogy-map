@@ -10,7 +10,7 @@
         },
         "death_year": "Unknown",
         "death_place": {
-            "name": "Unknown",
+            "name": "Unknown",F
             "lat": null,
             "lon": null
         },
@@ -782,19 +782,19 @@
         "color": "purple"
     },
     {
-        "first_name": "Sir Capt. Thomas John",
-        "last_name": "Newton",
-        "birth_year": "1612",
+        "first_name": "Thomas",
+        "last_name": "Newton of Fairfield",
+        "birth_year": "1620",
         "birth_place": {
-            "name": "near Manchester, Cheshire, England",
+            "name": "Manchester, Cheshire, England",
             "lat": 53.464702571535355, 
             "lon": -2.256451336346102
         },
-        "death_year": "1682",
+        "death_year": "1683",
         "death_place": {
-            "name": "Newtown, Livingston, New York, USA",
-            "lat": 42.14473709283111, 
-            "lon": -73.78632490833012
+            "name": "Long Island, NY",
+            "lat": 40.75838457484865, 
+            "lon": -73.57954899995815
         },
         "color": "purple"
     },
