@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 
 # Load data from JSON file
-with open("genealogy_data.json", "r") as f:
+with open("data.json", "r") as f:
     genealogy_data = json.load(f)
 
 @app.route('/')
