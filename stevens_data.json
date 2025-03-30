@@ -1,2 +1,3521 @@
 [
+    {
+        "first_name": "Mary Jane",
+        "last_name": "Stevens",
+        "birth_year": "1956",
+        "birth_place": {
+            "name": "Morehead, Carteret, North Carolina, USA",
+            "lat": 34.7229391,
+            "lon": -76.7260436
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Dorothy Mae",
+        "last_name": "Womble",
+        "birth_year": "1924",
+        "birth_place": {
+            "name": "Cape Fear, Chatham, North Carolina, USA",
+            "lat": 35.58779759753636,
+            "lon": -79.038016
+        },
+        "death_year": "04/05/2024",
+        "death_place": {
+            "name": "Sanford, Lee, North Carolina",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Layton Marion",
+        "last_name": "Stevens",
+        "birth_year": "1921",
+        "birth_place": {
+            "name": "Cape Fear, Chatham, North Carolina, USA",
+            "lat": 35.58779759753636,
+            "lon": -79.038016
+        },
+        "death_year": "2001",
+        "death_place": {
+            "name": "Sanford, Lee  County, North Carolina, United States",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "George Moody",
+        "last_name": "Womble",
+        "birth_year": "1877",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1974",
+        "death_place": {
+            "name": "Sanford, Lee County, North Carolina, United States of America",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Maude Odell",
+        "last_name": "Hearn",
+        "birth_year": "1897",
+        "birth_place": {
+            "name": "Rockingham, Richmond, North Carolina, USA",
+            "lat": 34.9393201,
+            "lon": -79.7739457
+        },
+        "death_year": "1935",
+        "death_place": {
+            "name": "Sanford, Lee County, North Carolina, USA",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Thomas Hillard",
+        "last_name": "Stevens",
+        "birth_year": "1894",
+        "birth_place": {
+            "name": ", North Carolina, United States",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1973",
+        "death_place": {
+            "name": "Sanford, Lee, North Carolina",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Lynnie Newell",
+        "last_name": "Kelly",
+        "birth_year": "1897",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1981",
+        "death_place": {
+            "name": "Sanford, Lee, North Carolina, United States of America",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Francis Marion",
+        "last_name": "Womble",
+        "birth_year": "1830",
+        "birth_place": {
+            "name": "Chatham Co., NC",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1901",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Esper Ann",
+        "last_name": "Drake",
+        "birth_year": "1836",
+        "birth_place": {
+            "name": "North Carolina, USA",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1912",
+        "death_place": {
+            "name": "North Carolina, USA",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Edmond Martin",
+        "last_name": "Hearn",
+        "birth_year": "1858",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1900",
+        "death_place": {
+            "name": "Rockingham, Richmond, North Carolina, USA",
+            "lat": 34.9393201,
+            "lon": -79.7739457
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Sallie Elisabeth",
+        "last_name": "Liles",
+        "birth_year": "1866",
+        "birth_place": {
+            "name": "Montgomery County, North Carolina",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "1910",
+        "death_place": {
+            "name": "North Carolina, United States of America",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Nial",
+        "last_name": "Womble",
+        "birth_year": "1793",
+        "birth_place": {
+            "name": "Chatham, North Carolina",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1867",
+        "death_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Edmond",
+        "last_name": "Hearn",
+        "birth_year": "1818",
+        "birth_place": {
+            "name": "NC",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1923",
+        "death_place": {
+            "name": "Montgomery County, North Carolina, United States of America",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Ruth (Rutha)",
+        "last_name": "Skeen",
+        "birth_year": "1770",
+        "birth_place": {
+            "name": "Rowan, North Carolina, American Colonies",
+            "lat": 35.620159102640244,
+            "lon": -80.57823531054598
+        },
+        "death_year": "1868",
+        "death_place": {
+            "name": "Montgomery, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "William S",
+        "last_name": "Hearne",
+        "birth_year": "1770",
+        "birth_place": {
+            "name": "Randolph Co., North Carolina",
+            "lat": 35.7142874,
+            "lon": -79.7975166
+        },
+        "death_year": "1868",
+        "death_place": {
+            "name": "Montgomery Co., North Carolina",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Britton",
+        "last_name": "Drake",
+        "birth_year": "1809",
+        "birth_place": {
+            "name": "Chatham, North Carolina",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1890",
+        "death_place": {
+            "name": "NC New Elam Church cemetery, New Hill, Wake, North Carolina, USA",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Nancy",
+        "last_name": "Farrar",
+        "birth_year": "abt.1810",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1868",
+        "death_place": {
+            "name": "Chatham County, North Carolina, United States of America",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "gray"
+    },
+    {
+        "first_name": "Elizabeth 'Bettie' Marjorie",
+        "last_name": "Galloway",
+        "birth_year": "1840",
+        "birth_place": {
+            "name": "Montgomery, North Carolina, United States",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "1892",
+        "death_place": {
+            "name": "Montgomery, North Carolina, United States",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "James Calvin",
+        "last_name": "Liles",
+        "birth_year": "1807",
+        "birth_place": {
+            "name": "Pee Dee, Anson, North Carolina, United States",
+            "lat": 34.9351537,
+            "lon": -79.8895028
+        },
+        "death_year": "1878",
+        "death_place": {
+            "name": "Anson, North Carolina, United States",
+            "lat": 34.9705848,
+            "lon": -80.0958187
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Delila",
+        "last_name": "Ratcliff",
+        "birth_year": "1812",
+        "birth_place": {
+            "name": "Anson, North Carolina, United States",
+            "lat": 34.9705848,
+            "lon": -80.0958187
+        },
+        "death_year": "1900",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Powell",
+        "last_name": "Farrar",
+        "birth_year": "1779",
+        "birth_place": {
+            "name": ", Mecklenburg, Virginia, USA",
+            "lat": 36.6798483,
+            "lon": -78.314746
+        },
+        "death_year": "1848",
+        "death_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "James Asbury",
+        "last_name": "Stevens",
+        "birth_year": "1856",
+        "birth_place": {
+            "name": "Cape Fear, Chatham, North Carolina, USA",
+            "lat": 35.58779759753636,
+            "lon": -79.038016
+        },
+        "death_year": "1944",
+        "death_place": {
+            "name": "Sanford, Lee County, North Carolina, United States",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "John Allen",
+        "last_name": "Stephens",
+        "birth_year": "1830",
+        "birth_place": {
+            "name": "NC",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1881",
+        "death_place": {
+            "name": ",Chatham,North Carolina",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Ester Emeline",
+        "last_name": "Cotten",
+        "birth_year": "1835",
+        "birth_place": {
+            "name": "Chatham, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1912",
+        "death_place": {
+            "name": "Chatham Co., NC",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Miles",
+        "last_name": "Stephens",
+        "birth_year": "1803",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1860",
+        "death_place": {
+            "name": "Chatham CO., NC",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "John Jordan",
+        "last_name": "Kelly",
+        "birth_year": "1874",
+        "birth_place": {
+            "name": "Moore County, North Carolina, USA",
+            "lat": 35.3054614,
+            "lon": -79.4761236
+        },
+        "death_year": "1956",
+        "death_place": {
+            "name": "Broadway, Lee, North Carolina, USA",
+            "lat": 35.4579333,
+            "lon": -79.0530768
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Nancy 'Nannie' Elizabeth",
+        "last_name": "Matthews",
+        "birth_year": "1879",
+        "birth_place": {
+            "name": "Upper Little River, Harnett, North Carolina, USA",
+            "lat": 35.3395366027183,
+            "lon": -78.79802954814427
+        },
+        "death_year": "1961",
+        "death_place": {
+            "name": "Lee County, North Carolina, USA",
+            "lat": 35.4691746,
+            "lon": -79.1547643
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Elizabeth Bettie",
+        "last_name": "McAuley",
+        "birth_year": "1856",
+        "birth_place": {
+            "name": "Moore County, North Carolina, USA",
+            "lat": 35.3054614,
+            "lon": -79.4761236
+        },
+        "death_year": "1937",
+        "death_place": {
+            "name": "Cape Fear, Lee County, North Carolina, USA",
+            "lat": 35.58814799897784,
+            "lon": -79.05734237268183
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Neill A",
+        "last_name": "Matthews",
+        "birth_year": "1844",
+        "birth_place": {
+            "name": "Cumberland, Cumberland, North Carolina, USA",
+            "lat": 35.004886,
+            "lon": -78.9672507
+        },
+        "death_year": "1921",
+        "death_place": {
+            "name": "Cape Fear, Lee, North Carolina, USA",
+            "lat": 35.58814799897784,
+            "lon": -79.05734237268183
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Nancy (Matthews)",
+        "last_name": "Cutts",
+        "birth_year": "1820",
+        "birth_place": {
+            "name": "Harnett County, North Carolina, USA",
+            "lat": 35.388093,
+            "lon": -78.8624963
+        },
+        "death_year": "1905",
+        "death_place": {
+            "name": "Neills Creek, Harnett, North Carolina, USA",
+            "lat": 35.43477712775984,
+            "lon": -78.82476690286988
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "William",
+        "last_name": "Cutts",
+        "birth_year": "1793",
+        "birth_place": {
+            "name": "Cumberland, North Carolina",
+            "lat": 35.0461723,
+            "lon": -78.8394255
+        },
+        "death_year": "1860",
+        "death_place": {
+            "name": "Harnett, North Carolina, United States",
+            "lat": 35.388093,
+            "lon": -78.8624963
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "CPT. James Oscar Abner",
+        "last_name": "Kelly",
+        "birth_year": "1833",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1918",
+        "death_place": {
+            "name": "Cape Fear, Broadway, Lee, North Carolina, USA",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Nancy Ann",
+        "last_name": "Sloan",
+        "birth_year": "1840",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1911",
+        "death_place": {
+            "name": "Broadway, Lee, North Carolina, USA",
+            "lat": 35.4579333,
+            "lon": -79.0530768
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Abner Baxter",
+        "last_name": "Kelly",
+        "birth_year": "1806",
+        "birth_place": {
+            "name": "Chatham, Moore County, North Carolina, USA",
+            "lat": 35.22319483032456,
+            "lon": -79.44199417666357
+        },
+        "death_year": "1885",
+        "death_place": {
+            "name": "Moore County, North Carolina, USA",
+            "lat": 35.3054614,
+            "lon": -79.4761236
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Mary Ann",
+        "last_name": "Harrington",
+        "birth_year": "1813",
+        "birth_place": {
+            "name": "Chatham, Moore County, North Carolina, USA",
+            "lat": 35.22319483032456,
+            "lon": -79.44199417666357
+        },
+        "death_year": "1890",
+        "death_place": {
+            "name": "Chatham, Moore County, North Carolina, USA",
+            "lat": 35.22319483032456,
+            "lon": -79.44199417666357
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "George Marion",
+        "last_name": "Stevens",
+        "birth_year": "1955",
+        "birth_place": {
+            "name": "Morehead, Carteret, North Carolina, USA",
+            "lat": 34.7229391,
+            "lon": -76.7260436
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Morehead, USA",
+            "lat": 38.1839705,
+            "lon": -83.4326841
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Robert Gordon",
+        "last_name": "Stevens",
+        "birth_year": "1945",
+        "birth_place": {
+            "name": "Morehead, Carteret, North Carolina, USA",
+            "lat": 34.7229391,
+            "lon": -76.7260436
+        },
+        "death_year": "2024",
+        "death_place": {
+            "name": "Pinehurst, Moore, North Carolina, USA",
+            "lat": 35.1951981,
+            "lon": -79.4692796
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Jerry Wayne",
+        "last_name": "Stevens",
+        "birth_year": "1944",
+        "birth_place": {
+            "name": "Lee, North Carolina, USA",
+            "lat": 35.4691746,
+            "lon": -79.1547643
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Sanford, USA",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Luke Romein",
+        "last_name": "Stevens",
+        "birth_year": "1985",
+        "birth_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Grace Elizabeth",
+        "last_name": "Stevens",
+        "birth_year": "1995",
+        "birth_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Caitlin Alexandra",
+        "last_name": "Stevens",
+        "birth_year": "1989",
+        "birth_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Nancy Ann",
+        "last_name": "Womble",
+        "birth_year": "05/31/1919",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "10/23/2017",
+        "death_place": {
+            "name": "RoanokeRapids, Halifax County, North Carolina, USA",
+            "lat": 36.4673203,
+            "lon": -77.65193078539033
+        },
+        "color": "gray"
+    },
+    {
+        "first_name": "George Coolidge",
+        "last_name": "Womble",
+        "birth_year": "1921",
+        "birth_place": {
+            "name": "Chatham County",
+            "lat": 31.9668887,
+            "lon": -81.0626008
+        },
+        "death_year": "2011",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Rubye A.",
+        "last_name": "Womble",
+        "birth_year": "1918",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "2011",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Rebecca",
+        "last_name": "Seagraves",
+        "birth_year": "1806",
+        "birth_place": {
+            "name": "Montgomery County, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "1880",
+        "death_place": {
+            "name": "Montgomery, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Sarah E",
+        "last_name": "Booth",
+        "birth_year": "1838",
+        "birth_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1904",
+        "death_place": {
+            "name": "Ballston Spa, Saratoga, New York, USA",
+            "lat": 43.0009087,
+            "lon": -73.8490111
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Abner",
+        "last_name": "Kelly",
+        "birth_year": "1770",
+        "birth_place": {
+            "name": "ireland",
+            "lat": 52.865196,
+            "lon": -7.9794599
+        },
+        "death_year": "1821",
+        "death_place": {
+            "name": "Moore County, North Carolina, USA",
+            "lat": 35.3054614,
+            "lon": -79.4761236
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Abner Clyde",
+        "last_name": "Harrington",
+        "birth_year": "1777",
+        "birth_place": {
+            "name": "Pittsboro, Moore County, North Carolina, USA",
+            "lat": 35.72748342404556,
+            "lon": -79.1807301862983
+        },
+        "death_year": "1844",
+        "death_place": {
+            "name": "Pittsboro, Chatham, North Carolina, USA",
+            "lat": 35.7201229,
+            "lon": -79.1771539
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Sion Hillard",
+        "last_name": "Harrington",
+        "birth_year": "1752",
+        "birth_place": {
+            "name": "Edgecombe, Edgecombe, North Carolina, USA",
+            "lat": 35.92106505,
+            "lon": -77.55575296871392
+        },
+        "death_year": "1828",
+        "death_place": {
+            "name": "Jonesboro, Moore, North Carolina, United States",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Agnes Nancy",
+        "last_name": "Drake",
+        "birth_year": "1744",
+        "birth_place": {
+            "name": "Scotland",
+            "lat": 56.7861112,
+            "lon": -4.1140518
+        },
+        "death_year": "1795",
+        "death_place": {
+            "name": "Sanford, Lee County, North Carolina, USA",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Jordan Robert",
+        "last_name": "Sloan",
+        "birth_year": "1814",
+        "birth_place": {
+            "name": "Moore County, North Carolina, USA",
+            "lat": 35.3054614,
+            "lon": -79.4761236
+        },
+        "death_year": "1871",
+        "death_place": {
+            "name": "Moore County, North Carolina, USA",
+            "lat": 35.3054614,
+            "lon": -79.4761236
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Sophia",
+        "last_name": "Morris",
+        "birth_year": "1815",
+        "birth_place": {
+            "name": "Morris Chapel, Moore County, North Carolina, USA",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1880",
+        "death_place": {
+            "name": "Sanford, Lee, North Carolina, USA",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Sloan",
+        "birth_year": "1767",
+        "birth_place": {
+            "name": "Inch, Wigtownshire, Scotland",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1835",
+        "death_place": {
+            "name": "Sanford, Lee, North Carolina, USA",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "*James Alexander",
+        "last_name": "Sloan",
+        "birth_year": "1702",
+        "birth_place": {
+            "name": "Glasserton, Wigtownshire, Dumfries and Galloway, Scotland, United Kingdom",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1781",
+        "death_place": {
+            "name": "Edinburgh, Lothian, Scotland, United Kingdom",
+            "lat": 55.795446350000006,
+            "lon": -3.0662448525444046
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "George",
+        "last_name": "Sloan",
+        "birth_year": "1679",
+        "birth_place": {
+            "name": "Wlot, Linlithgow, West Lothian, Scotland",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1750",
+        "death_place": {
+            "name": "Kirkcudbright, Ayrshire, Scotland",
+            "lat": null,
+            "lon": null
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Samuel C",
+        "last_name": "McAuley",
+        "birth_year": "1827",
+        "birth_place": {
+            "name": "Moore County (now Lee County), NC",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1912",
+        "death_place": {
+            "name": "Broadway, Lee, North Carolina, USA",
+            "lat": 35.4579333,
+            "lon": -79.0530768
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Annie Elizabeth",
+        "last_name": "Harrington",
+        "birth_year": "1796",
+        "birth_place": {
+            "name": "Moore County, NC",
+            "lat": 35.3054614,
+            "lon": -79.4761236
+        },
+        "death_year": "1880",
+        "death_place": {
+            "name": "Jonesboro, Moore County (now Lee County), NC",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John William",
+        "last_name": "Farrar",
+        "birth_year": "1728",
+        "birth_place": {
+            "name": "Farrar's Island, Chesterfield, Virginia, USA",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1808",
+        "death_place": {
+            "name": "Wake County, North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Maj. George",
+        "last_name": "Farrar",
+        "birth_year": "1690",
+        "birth_place": {
+            "name": "Farrar's Island, Virginia",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1772",
+        "death_place": {
+            "name": "Mecklenburg, Virginia",
+            "lat": 36.6798483,
+            "lon": -78.314746
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Jacob",
+        "last_name": "Utley",
+        "birth_year": "1752",
+        "birth_place": {
+            "name": "Wake County, North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "death_year": "1796",
+        "death_place": {
+            "name": "Wake County, North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Isaac",
+        "last_name": "Kelly",
+        "birth_year": "1816",
+        "birth_place": {
+            "name": "Elizabeth Twp, Allegheny, Pennsylvania",
+            "lat": 40.26434055,
+            "lon": -79.83325993858469
+        },
+        "death_year": "1900",
+        "death_place": {
+            "name": "Maysville, Mason, Kentucky, United States",
+            "lat": 38.6474569,
+            "lon": -83.7644793
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Samuel",
+        "last_name": "Kelly",
+        "birth_year": "1790",
+        "birth_place": {
+            "name": "Homestead, Buffalo, Union, Pennsylvania, USA",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1875",
+        "death_place": {
+            "name": "Lincoln, Allegheny, Pennsylvania, USA",
+            "lat": 40.2992843,
+            "lon": -79.8523129
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John  Patrick",
+        "last_name": "Kelly",
+        "birth_year": "1744",
+        "birth_place": {
+            "name": " Marietta, Donegal Township, Lancaster Co., PA",
+            "lat": 40.06350505,
+            "lon": -76.57632087918026
+        },
+        "death_year": "1832",
+        "death_place": {
+            "name": "Buffalo Valley, Union County, Pennsylvania, United States",
+            "lat": 40.954486599999996,
+            "lon": -76.9451533
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Kelly",
+        "birth_year": "1700",
+        "birth_place": {
+            "name": ", Peeblesshire, , Scotland",
+            "lat": 55.6454616,
+            "lon": -3.1721946
+        },
+        "death_year": "1758",
+        "death_place": {
+            "name": "Woodbridge, Middlesex, New Jersey, United States",
+            "lat": 40.55418,
+            "lon": -74.28600076944446
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Lady Judith Ann",
+        "last_name": "Stephens",
+        "birth_year": "1595",
+        "birth_place": {
+            "name": "London, London, England",
+            "lat": 51.4893335,
+            "lon": -0.14405508452768728
+        },
+        "death_year": "1687",
+        "death_place": {
+            "name": "Roxbury, Suffolk, Massachusetts",
+            "lat": 42.3248426,
+            "lon": -71.0950158
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Ernest Edward",
+        "last_name": "Stephens",
+        "birth_year": "1576",
+        "birth_place": {
+            "name": "Bromland, Somerset, England",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1660",
+        "death_place": {
+            "name": "Massachusetts Colony, MA",
+            "lat": null,
+            "lon": null
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Rutha",
+        "last_name": "Lamar",
+        "birth_year": "1747",
+        "birth_place": {
+            "name": "Prince George, Prince George, Virginia, United States",
+            "lat": 37.219263,
+            "lon": -77.26690449900099
+        },
+        "death_year": "1816",
+        "death_place": {
+            "name": "Rowan, Guilford, North Carolina, United States",
+            "lat": 35.921758,
+            "lon": -80.01880249999999
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John M.",
+        "last_name": "Liles",
+        "birth_year": "1770",
+        "birth_place": {
+            "name": "Anson, Chester, North Carolina, United States",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1836",
+        "death_place": {
+            "name": "Anson Co., NC",
+            "lat": 34.9705848,
+            "lon": -80.0958187
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Thomas Hilliard",
+        "last_name": "Booth",
+        "birth_year": "1821",
+        "birth_place": {
+            "name": "Wake Co., North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "death_year": "1900",
+        "death_place": {
+            "name": "Wake Co., North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Cidia",
+        "last_name": "Womble",
+        "birth_year": "1820",
+        "birth_place": {
+            "name": "Wake Co., North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "death_year": "1891",
+        "death_place": {
+            "name": "Wake Co., North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Avent",
+        "last_name": "Cotten",
+        "birth_year": "1793",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1863",
+        "death_place": {
+            "name": "Chatham, North Carolina, United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John Thomas",
+        "last_name": "Womble",
+        "birth_year": "1789",
+        "birth_place": {
+            "name": ", Isle of Wight, Virginia, USA",
+            "lat": 36.8953677,
+            "lon": -76.7248143
+        },
+        "death_year": "1850",
+        "death_place": {
+            "name": ",Wake, NC, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Rebecca",
+        "last_name": "Woodward",
+        "birth_year": "1792",
+        "birth_place": {
+            "name": "Virginia, United States",
+            "lat": 37.1232245,
+            "lon": -78.4927721
+        },
+        "death_year": "1870",
+        "death_place": {
+            "name": "Wake, North Carolina, United States",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Frances",
+        "last_name": "Wilson",
+        "birth_year": "1793",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1880",
+        "death_place": {
+            "name": ", Wake, North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Redding",
+        "last_name": "Galloway",
+        "birth_year": "1804",
+        "birth_place": {
+            "name": "Pitt, North Carolina, United States",
+            "lat": 35.611481,
+            "lon": -77.3707461
+        },
+        "death_year": "1891",
+        "death_place": {
+            "name": "Hamers Creek, Montgomery, North Carolina, USA",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "William",
+        "last_name": "Seagraves",
+        "birth_year": "1776",
+        "birth_place": {
+            "name": "North Carolina, United States",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1850",
+        "death_place": {
+            "name": "North Carolina, United States",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Cecilia \"Celia\"",
+        "last_name": "Fields",
+        "birth_year": "1760",
+        "birth_place": {
+            "name": "Richmond, North Carolina, United States",
+            "lat": 35.0288383,
+            "lon": -79.7333261
+        },
+        "death_year": "1824",
+        "death_place": {
+            "name": "Anson, North Carolina, United States",
+            "lat": 34.9705848,
+            "lon": -80.0958187
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "William Harvey",
+        "last_name": "Galloway",
+        "birth_year": "1728",
+        "birth_place": {
+            "name": "Middle River, Baltimore, Maryland, United States",
+            "lat": 39.34169609999999,
+            "lon": -76.42718184426359
+        },
+        "death_year": "1809",
+        "death_place": {
+            "name": "Chocowinity, Beaufort, North Carolina, United States",
+            "lat": 35.5125955,
+            "lon": -77.1009232
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John Smith",
+        "last_name": "Fields",
+        "birth_year": "1740",
+        "birth_place": {
+            "name": "Onslow, Richmond, North Carolina, USA",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1799",
+        "death_place": {
+            "name": "Anson, North Carolina, United States",
+            "lat": 34.9705848,
+            "lon": -80.0958187
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Liles",
+        "birth_year": "1745",
+        "birth_place": {
+            "name": "Fairfield County, South Carolina Colony, North America",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1810",
+        "death_place": {
+            "name": "Lilesville, Anson, North Carolina",
+            "lat": 34.9676535,
+            "lon": -79.9845032
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Seth",
+        "last_name": "Cotten",
+        "birth_year": "1750",
+        "birth_place": {
+            "name": "Albemarle Parish, Surry, Virginia, USA",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1815",
+        "death_place": {
+            "name": ", Chatham, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "William Kendrick",
+        "last_name": "Goodwin",
+        "birth_year": "1748",
+        "birth_place": {
+            "name": "St Peters, New Kent, Virginia, United States",
+            "lat": 37.5404672,
+            "lon": -77.0571445
+        },
+        "death_year": "1837",
+        "death_place": {
+            "name": "Chatham, North Carolina",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Woodward",
+        "birth_year": "1764",
+        "birth_place": {
+            "name": "St James Parish, Goochland County, Virginia",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1821",
+        "death_place": {
+            "name": "Spafford, Onondaga County, New York",
+            "lat": 42.8045121,
+            "lon": -76.2649296
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Blumer",
+        "last_name": "Wilson",
+        "birth_year": "1750",
+        "birth_place": {
+            "name": "Craven, North Carolina, United States",
+            "lat": 35.0808574,
+            "lon": -77.0439978
+        },
+        "death_year": "1827",
+        "death_place": {
+            "name": "Chatham, North Carolina, United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "William",
+        "last_name": "Womble",
+        "birth_year": "1748",
+        "birth_place": {
+            "name": "Isle of Wight, Isle of Wight, Virginia, United States",
+            "lat": 36.9076493,
+            "lon": -76.707735
+        },
+        "death_year": "1825",
+        "death_place": {
+            "name": "Wake, North Carolina, United States",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Richard C.",
+        "last_name": "Cotten",
+        "birth_year": "1720",
+        "birth_place": {
+            "name": "Albemarle, Surry, Virginia, United States",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1790",
+        "death_place": {
+            "name": "Edgecombe, Edgecombe, North Carolina, United States",
+            "lat": 35.92106505,
+            "lon": -77.55575296871392
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Sarah Moore",
+        "last_name": "Massey",
+        "birth_year": "1720",
+        "birth_place": {
+            "name": "Sussex, Sussex, Virginia, United States",
+            "lat": 36.9184305,
+            "lon": -77.27209356005932
+        },
+        "death_year": "1785",
+        "death_place": {
+            "name": ", Northampton, North Carolina, USA",
+            "lat": 36.4168078,
+            "lon": -77.3642227
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Thomas",
+        "last_name": "Goodwin",
+        "birth_year": "1732",
+        "birth_place": {
+            "name": "York County, Virginia, USA",
+            "lat": 37.2230374,
+            "lon": -76.5156945
+        },
+        "death_year": "1761",
+        "death_place": {
+            "name": "Abingdon, Gloucester County, Virginia, USA",
+            "lat": 37.3335736,
+            "lon": -76.5134289
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Samuel",
+        "last_name": "Hillard",
+        "birth_year": "1745",
+        "birth_place": {
+            "name": "Derbyshire, England",
+            "lat": 53.1185033,
+            "lon": -1.5566179305872214
+        },
+        "death_year": "1831",
+        "death_place": {
+            "name": "Clarendon, Vermont ",
+            "lat": 43.5182261,
+            "lon": -72.9711607
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Nancy",
+        "last_name": "Cox",
+        "birth_year": "1785",
+        "birth_place": {
+            "name": "Cumberland County, North Carolina",
+            "lat": 35.0461723,
+            "lon": -78.8394255
+        },
+        "death_year": "1841",
+        "death_place": {
+            "name": "Moore (now Lee) County, North Carolina",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Capt Michael Ebenezer",
+        "last_name": "Wilson",
+        "birth_year": "1727",
+        "birth_place": {
+            "name": "Wrentham, Norfolk, Massachusetts, USA",
+            "lat": 42.0667652,
+            "lon": -71.3281114
+        },
+        "death_year": "1829",
+        "death_place": {
+            "name": "West Middlebury, Wyoming County, New York, United States of America",
+            "lat": 42.8625605,
+            "lon": -78.1514021
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John P SR",
+        "last_name": "Puryear",
+        "birth_year": "1715",
+        "birth_place": {
+            "name": "Warwick County, Virginia, USA",
+            "lat": 38.12757246415229,
+            "lon": -76.60581898398861
+        },
+        "death_year": "1785",
+        "death_place": {
+            "name": "Mecklenburg, Virginia, USA",
+            "lat": 36.6798483,
+            "lon": -78.314746
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "William Harvey",
+        "last_name": "Galloway",
+        "birth_year": "1693",
+        "birth_place": {
+            "name": "Middle River, Baltimore, Maryland, United States",
+            "lat": 39.34169609999999,
+            "lon": -76.42718184426359
+        },
+        "death_year": "1743",
+        "death_place": {
+            "name": "Baltimore, Baltimore, Maryland, United States",
+            "lat": 39.2877017,
+            "lon": -76.6064893
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "William * (m. Margaret Enloe)",
+        "last_name": "Galloway",
+        "birth_year": "1669",
+        "birth_place": {
+            "name": "Baltimore, Baltimore County, Maryland, USA",
+            "lat": 39.252376999999996,
+            "lon": -76.70891806688415
+        },
+        "death_year": "1705",
+        "death_place": {
+            "name": "Baltimore, Baltimore City, Maryland, USA",
+            "lat": 39.2775389,
+            "lon": -76.8587188
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Captain John W.",
+        "last_name": "Goodwin",
+        "birth_year": "1698",
+        "birth_place": {
+            "name": "St Peters Parish, York, Virginia, United States",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1775",
+        "death_place": {
+            "name": "York County, Virginia, USA",
+            "lat": 37.2230374,
+            "lon": -76.5156945
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Robert",
+        "last_name": "Hillard",
+        "birth_year": "1702",
+        "birth_place": {
+            "name": "Ballygarvan, 5298, , Ireland",
+            "lat": 51.8241133,
+            "lon": -8.4621398
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Henry Dorchester",
+        "last_name": "Woodward",
+        "birth_year": "1697",
+        "birth_place": {
+            "name": "Bath, Beaufort, North Carolina, United States",
+            "lat": 35.4771094,
+            "lon": -76.8116045
+        },
+        "death_year": "1734",
+        "death_place": {
+            "name": "Bath, Beaufort, North Carolina, United States",
+            "lat": 35.4771094,
+            "lon": -76.8116045
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Thomas O III",
+        "last_name": "Womble",
+        "birth_year": "1680",
+        "birth_place": {
+            "name": "Isle of Wight, Isle of Wight, Virginia, USA",
+            "lat": 36.9076493,
+            "lon": -76.707735
+        },
+        "death_year": "1731",
+        "death_place": {
+            "name": "Isle of Wight, Isle of Wight, Virginia, United States",
+            "lat": 36.9076493,
+            "lon": -76.707735
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Henry",
+        "last_name": "Wilson",
+        "birth_year": "1690",
+        "birth_place": {
+            "name": "Wrentham, Norfolk, Massachusetts, USA",
+            "lat": 42.0667652,
+            "lon": -71.3281114
+        },
+        "death_year": "1769",
+        "death_place": {
+            "name": "Wrentham, Norfolk, Massachusetts, USA",
+            "lat": 42.0667652,
+            "lon": -71.3281114
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Priscilla Baugh",
+        "last_name": "Farrar",
+        "birth_year": "1654",
+        "birth_place": {
+            "name": "Henrico, Virginia, United States",
+            "lat": 37.5131191,
+            "lon": -77.3465081
+        },
+        "death_year": "1706",
+        "death_place": {
+            "name": "Farrars Island, Henrico County, Virginia, USA",
+            "lat": null,
+            "lon": null
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "John E",
+        "last_name": "Woodward",
+        "birth_year": "1679",
+        "birth_place": {
+            "name": "Lower, Norfolk, Virginia, United States",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1734",
+        "death_place": {
+            "name": "Bath, Beaufort, North Carolina, British Colonial America",
+            "lat": null,
+            "lon": null
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Wilson",
+        "birth_year": "1644",
+        "birth_place": {
+            "name": "Dedham, Norfolk, Massachusetts, United States",
+            "lat": 42.2489143,
+            "lon": -71.1755732
+        },
+        "death_year": "1731",
+        "death_place": {
+            "name": "Wrentham, Norfolk, Massachusetts, United States",
+            "lat": 42.0667652,
+            "lon": -71.3281114
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Ann Osborne nee",
+        "last_name": "Wilson",
+        "birth_year": "1630",
+        "birth_place": {
+            "name": "Wivelsfield, Sussex, England - Baptized Feb. 17, 1630",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1689",
+        "death_place": {
+            "name": "Sussex, Rothesfield, England",
+            "lat": null,
+            "lon": null
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Francis E",
+        "last_name": "Woodward",
+        "birth_year": "1625",
+        "birth_place": {
+            "name": "Charles City, Charles, Virginia, USA",
+            "lat": 37.342801,
+            "lon": -77.06646417910446
+        },
+        "death_year": "1679",
+        "death_place": {
+            "name": "Lynhaven Par, Lower Norfolk, Virginia, United States",
+            "lat": null,
+            "lon": null
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Edward",
+        "last_name": "Wilson",
+        "birth_year": "1606",
+        "birth_place": {
+            "name": "Dunnington, Lincolnshire, England",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1638",
+        "death_place": {
+            "name": "Salem, Essex, Massachusetts, United States",
+            "lat": 42.5195292,
+            "lon": -70.8967226
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Rev Dr. William",
+        "last_name": "Wilson",
+        "birth_year": "1556",
+        "birth_place": {
+            "name": "Donnington, Lincolnshire, England, United Kingdom",
+            "lat": 53.335895211831094,
+            "lon": -0.19128740057172042
+        },
+        "death_year": "1638",
+        "death_place": {
+            "name": "Donnington, Lincolnshire, England, United Kingdom",
+            "lat": 53.335895211831094,
+            "lon": -0.19128740057172042
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Mary Jane",
+        "last_name": "Farrar",
+        "birth_year": "1627",
+        "birth_place": {
+            "name": "Farrar Island, Henrico, Virginia, United States",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1676",
+        "death_place": {
+            "name": "Farrars Island, Henrico, Virginia, United States",
+            "lat": null,
+            "lon": null
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "James William",
+        "last_name": "Liles",
+        "birth_year": "1675",
+        "birth_place": {
+            "name": "Bristol Parish, Henrico, British Colonies in America, Virginia, USA",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1750",
+        "death_place": {
+            "name": "Henrico, British Colonies in America, Virginia, USA",
+            "lat": null,
+            "lon": null
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "William",
+        "last_name": "Puryear",
+        "birth_year": "1658",
+        "birth_place": {
+            "name": "Haddenham, Cambridgeshire, England",
+            "lat": 52.3587178,
+            "lon": 0.1501133
+        },
+        "death_year": "1681",
+        "death_place": {
+            "name": "Cottenham, Cambridgeshire, England",
+            "lat": 52.29735125,
+            "lon": 0.14034071613525181
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Ida Victoria",
+        "last_name": "Stevens",
+        "birth_year": "1879",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1925",
+        "death_place": {
+            "name": "Sidell, St. Tammany Parish, Louisana, United States",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Samuel Vernon",
+        "last_name": "Stevens",
+        "birth_year": "1882",
+        "birth_place": {
+            "name": "Chatham County, North Carolina,  United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1945",
+        "death_place": {
+            "name": "Upper Little River, Harnett County, North Carolina United States",
+            "lat": 35.3395366027183,
+            "lon": -78.79802954814427
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Exum Allen",
+        "last_name": "Stevens",
+        "birth_year": "1884",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1930",
+        "death_place": {
+            "name": "Cape Fear, Lee County, North Carolina,  United States",
+            "lat": 35.58814799897784,
+            "lon": -79.05734237268183
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Laylon Frances",
+        "last_name": "Stevens",
+        "birth_year": "1888",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1922",
+        "death_place": {
+            "name": "Sanford, Lee County, North Carolina, United States",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Morris",
+        "birth_year": "1767",
+        "birth_place": {
+            "name": "Moore County, North Carolina, USA",
+            "lat": 35.3054614,
+            "lon": -79.4761236
+        },
+        "death_year": "1850",
+        "death_place": {
+            "name": "Sanford, Moore County, North Carolina, USA",
+            "lat": 35.347136634971356,
+            "lon": -79.41242993093428
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Kelly",
+        "birth_year": "1756",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1826",
+        "death_place": {
+            "name": "Orange, North Carolina, United States",
+            "lat": 36.0605095,
+            "lon": -79.1172679
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Ida Susan",
+        "last_name": "Stephens",
+        "birth_year": "1859",
+        "birth_place": {
+            "name": "Chatham  North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1922",
+        "death_place": {
+            "name": "Buckhorn, Wake, North Carolina, USA",
+            "lat": 35.622052203934125,
+            "lon": -78.84909531403976
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Gabriel",
+        "last_name": "Drake",
+        "birth_year": "1832",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Elizabeth",
+        "last_name": "Drake",
+        "birth_year": "1840",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Emiline",
+        "last_name": "Drake",
+        "birth_year": "1843",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Drake",
+        "birth_year": "1845",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "George",
+        "last_name": "Drake",
+        "birth_year": "1849",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "John T",
+        "last_name": "Galloway",
+        "birth_year": "1837",
+        "birth_place": {
+            "name": ", Montgomery, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "1865",
+        "death_place": {
+            "name": "Elmira, Chemung, New York, USA",
+            "lat": 42.0897965,
+            "lon": -76.8077338
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Mary",
+        "last_name": "Galloway",
+        "birth_year": "1842",
+        "birth_place": {
+            "name": ", Montgomery, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "1880",
+        "death_place": {
+            "name": ", Montgomery, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Rebecca Alice",
+        "last_name": "Galloway",
+        "birth_year": "1855",
+        "birth_place": {
+            "name": ", Montgomery, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "1932",
+        "death_place": {
+            "name": ", Montgomery, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Alexander 'Sandy'",
+        "last_name": "Liles",
+        "birth_year": "1862",
+        "birth_place": {
+            "name": "Montgomery County, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "1930",
+        "death_place": {
+            "name": "Hamlet, Richmond, North Carolina, USA",
+            "lat": 34.8863657,
+            "lon": -79.6972143
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Sarah",
+        "last_name": "Liles",
+        "birth_year": "1862",
+        "birth_place": {
+            "name": "Montgomery County, North Carolina",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Liles",
+        "birth_year": "16",
+        "birth_place": {
+            "name": "Montgomery County, North Carolina",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "22",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "gray"
+    },
+    {
+        "first_name": "Mary McBee Malone",
+        "last_name": "Booth",
+        "birth_year": "1680",
+        "birth_place": {
+            "name": "Sussex, Virginia, United States",
+            "lat": 36.9096897,
+            "lon": -77.2741121
+        },
+        "death_year": "1751",
+        "death_place": {
+            "name": ", Sussex, Virginia, USA",
+            "lat": 36.9096897,
+            "lon": -77.2741121
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "infant",
+        "last_name": "Stevens",
+        "birth_year": "1925",
+        "birth_place": {
+            "name": "Lee County, North  Carolina, United States",
+            "lat": 35.4691746,
+            "lon": -79.1547643
+        },
+        "death_year": "1925",
+        "death_place": {
+            "name": "Lee County, North  Carolina, United States",
+            "lat": 35.4691746,
+            "lon": -79.1547643
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "infant",
+        "last_name": "Stevens",
+        "birth_year": "1924",
+        "birth_place": {
+            "name": "Lee County, North  Carolina, United States",
+            "lat": 35.4691746,
+            "lon": -79.1547643
+        },
+        "death_year": "1924",
+        "death_place": {
+            "name": "Lee County, North  Carolina, United States",
+            "lat": 35.4691746,
+            "lon": -79.1547643
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Beulah",
+        "last_name": "Stephens",
+        "birth_year": "1898",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Katharine",
+        "last_name": "Stevens",
+        "birth_year": "1888",
+        "birth_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1979",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Ralph",
+        "last_name": "Stephens",
+        "birth_year": "1902",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Henry Bascom",
+        "last_name": "Stephens",
+        "birth_year": "1869",
+        "birth_place": {
+            "name": "Chatham, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1927",
+        "death_place": {
+            "name": "Harnett, North Carolina, USA",
+            "lat": 35.388093,
+            "lon": -78.8624963
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Mary Emma",
+        "last_name": "Stephens",
+        "birth_year": "1864",
+        "birth_place": {
+            "name": "Chatham, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1939",
+        "death_place": {
+            "name": "Buckhorn, Harnett, North Carolina, USA",
+            "lat": 35.54597294668221,
+            "lon": -78.98942272741495
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "John Wesley",
+        "last_name": "Stephens",
+        "birth_year": "1861",
+        "birth_place": {
+            "name": "Harnett, North Carolina, USA",
+            "lat": 35.388093,
+            "lon": -78.8624963
+        },
+        "death_year": "1942",
+        "death_place": {
+            "name": "Sanford, Lee, North Carolina, USA",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Josephene",
+        "last_name": "Stephens",
+        "birth_year": "1866",
+        "birth_place": {
+            "name": "North Carolina, USA",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "William Oscar \\ Osker",
+        "last_name": "Stephens",
+        "birth_year": "1874",
+        "birth_place": {
+            "name": "North Carolina, USA",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1946",
+        "death_place": {
+            "name": "Chatham, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Laura",
+        "last_name": "Stephens",
+        "birth_year": "1864",
+        "birth_place": {
+            "name": "North Carolina, USA",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Eunice F",
+        "last_name": "Stephens",
+        "birth_year": "1887",
+        "birth_place": {
+            "name": "North Carolina, USA",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Louis Lura",
+        "last_name": "Stevens",
+        "birth_year": "1909",
+        "birth_place": {
+            "name": "Lee County, North Carolina, USA",
+            "lat": 35.4691746,
+            "lon": -79.1547643
+        },
+        "death_year": "2003",
+        "death_place": {
+            "name": "Sanford, Lee, North Carolina, USA",
+            "lat": 35.4798757,
+            "lon": -79.1802994
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Arenda 'Renna'",
+        "last_name": "Booth",
+        "birth_year": "1857",
+        "birth_place": {
+            "name": "Wake County, North Carolina, United States",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "death_year": "1894",
+        "death_place": {
+            "name": "Chatham County, North Carolina, United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Thomas Hilliard",
+        "last_name": "Booth",
+        "birth_year": "1821",
+        "birth_place": {
+            "name": "Wake Co., North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "death_year": "1900",
+        "death_place": {
+            "name": "Wake Co., North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Cidia  'Siddy'",
+        "last_name": "Womble",
+        "birth_year": "1820",
+        "birth_place": {
+            "name": "Wake Co., North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "death_year": "1891",
+        "death_place": {
+            "name": "Wake Co., North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "James Hilliard",
+        "last_name": "Booth",
+        "birth_year": "1845",
+        "birth_place": {
+            "name": "Wake, North Carolina",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "death_year": "1917",
+        "death_place": {
+            "name": "Catawba, North Carolina",
+            "lat": 35.6740563,
+            "lon": -81.2107215
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Louisa",
+        "last_name": "Booth",
+        "birth_year": "1848",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Joseph",
+        "last_name": "Booth",
+        "birth_year": "1860",
+        "birth_place": {
+            "name": "nc",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Emily",
+        "last_name": "Booth",
+        "birth_year": "1849",
+        "birth_place": {
+            "name": "Wake County, North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Dicey",
+        "last_name": "Shaddocks",
+        "birth_year": "1805",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "UNKNOWN",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Nathan B",
+        "last_name": "Stephens",
+        "birth_year": "1869",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1923",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Evelina or Evelyn",
+        "last_name": "Stephens",
+        "birth_year": "1823",
+        "birth_place": {
+            "name": "Buckhorn District, Wake County, North Carolina, USA",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1859",
+        "death_place": {
+            "name": "USA",
+            "lat": 39.7837304,
+            "lon": -100.445882
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "William",
+        "last_name": "Stephens",
+        "birth_year": "1824",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Edwin",
+        "last_name": "Stephens",
+        "birth_year": "1770",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Crawford",
+        "last_name": "Stephens",
+        "birth_year": "1804",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Charlotte",
+        "last_name": "Stephens",
+        "birth_year": "1795",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Rev. John Wesley",
+        "last_name": "Cotten",
+        "birth_year": "1825",
+        "birth_place": {
+            "name": "Chatham, North Carolina, United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1881",
+        "death_place": {
+            "name": "Chatham, North Carolina, United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Thomas Benton",
+        "last_name": "Cotten",
+        "birth_year": "1838",
+        "birth_place": {
+            "name": "Chatham County,  North Carolina",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1863",
+        "death_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Richard Clifford",
+        "last_name": "Cotten",
+        "birth_year": "1825",
+        "birth_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1899",
+        "death_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Cotten",
+        "birth_year": "1828",
+        "birth_place": {
+            "name": "Chatham, North Carolina, United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1870",
+        "death_place": {
+            "name": "Wake, North Carolina, United States",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Joseph",
+        "last_name": "Cotten",
+        "birth_year": "1820",
+        "birth_place": {
+            "name": "Chatham Co, NC, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1858",
+        "death_place": {
+            "name": "Harnett, North Carolina, United States",
+            "lat": 35.388093,
+            "lon": -78.8624963
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Zelma V",
+        "last_name": "Stevens",
+        "birth_year": "1898",
+        "birth_place": {
+            "name": "North Carolina, USA",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Forest",
+        "last_name": "Stevens",
+        "birth_year": "1922",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "red"
+    },
+    {
+        "first_name": "Mamie",
+        "last_name": "Stevens",
+        "birth_year": "1885",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Lolon",
+        "last_name": "Stephens",
+        "birth_year": "1890",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Leah",
+        "last_name": "Sealey",
+        "birth_year": "1773",
+        "birth_place": {
+            "name": "Wake County, North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Calvin",
+        "last_name": "Seagraves",
+        "birth_year": "1807",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1884",
+        "death_place": {
+            "name": "North Carolina, USA",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Charlotte",
+        "last_name": "Seagraves",
+        "birth_year": "1802",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Elmira",
+        "last_name": "Galloway",
+        "birth_year": "1830",
+        "birth_place": {
+            "name": "Montgomery, North Carolina, United States",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Martha",
+        "last_name": "Galloway",
+        "birth_year": "1846",
+        "birth_place": {
+            "name": "Montgomery, North Carolina, United States",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "1860",
+        "death_place": {
+            "name": "Montgomery, North Carolina, United States",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Lucy (Leacy)",
+        "last_name": "Galloway",
+        "birth_year": "1/31/1832",
+        "birth_place": {
+            "name": "Montgomery County, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "death_year": "1910",
+        "death_place": {
+            "name": "Montgomery County, North Carolina, USA",
+            "lat": 35.3299572,
+            "lon": -79.8979019
+        },
+        "color": "gray"
+    },
+    {
+        "first_name": "Sarah Catherine",
+        "last_name": "Kelly",
+        "birth_year": "1839",
+        "birth_place": {
+            "name": "Fleming, Kentucky, United States",
+            "lat": 38.3663888,
+            "lon": -83.6790737
+        },
+        "death_year": "1910",
+        "death_place": {
+            "name": "Mt Carmel, Fleming, Kentucky, United States",
+            "lat": 38.4845212,
+            "lon": -83.6365826
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Samuel P",
+        "last_name": "Kelly",
+        "birth_year": "1844",
+        "birth_place": {
+            "name": "Kentucky",
+            "lat": 37.5726028,
+            "lon": -85.1551411
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Mary Jane",
+        "last_name": "Kelly",
+        "birth_year": "1844",
+        "birth_place": {
+            "name": "Flemingsburg, Fleming, Kentucky, USA",
+            "lat": 38.4222995,
+            "lon": -83.7338076
+        },
+        "death_year": "1938",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "George Abner",
+        "last_name": "Kelly",
+        "birth_year": "1847",
+        "birth_place": {
+            "name": "Kentucky",
+            "lat": 37.5726028,
+            "lon": -85.1551411
+        },
+        "death_year": "1909",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Nicholas",
+        "last_name": "Booth",
+        "birth_year": "1549",
+        "birth_place": {
+            "name": "Derby, Derbyshire, England",
+            "lat": 52.9212617,
+            "lon": -1.4761491
+        },
+        "death_year": "1625",
+        "death_place": {
+            "name": "Sudbury, Derbyshire, England",
+            "lat": 52.8855639,
+            "lon": -1.7619
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Edward",
+        "last_name": "Wilson",
+        "birth_year": "1564",
+        "birth_place": {
+            "name": "Mirfield, Yorkshire, England",
+            "lat": 53.673216,
+            "lon": -1.6946052
+        },
+        "death_year": "1630",
+        "death_place": {
+            "name": "Mirfield, Yorkshire, England",
+            "lat": 53.673216,
+            "lon": -1.6946052
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Samuel",
+        "last_name": "Farrar",
+        "birth_year": "1762",
+        "birth_place": {
+            "name": "Chesterfield County, Virginia, USA",
+            "lat": 37.3859982,
+            "lon": -77.578509
+        },
+        "death_year": "1818",
+        "death_place": {
+            "name": "Mecklenburg County, Virginia, USA",
+            "lat": 36.6798483,
+            "lon": -78.314746
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Peter",
+        "last_name": "Farrar",
+        "birth_year": "1764",
+        "birth_place": {
+            "name": "Mecklenburg County, Virginia, USA",
+            "lat": 36.6798483,
+            "lon": -78.314746
+        },
+        "death_year": "1826",
+        "death_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John Willie",
+        "last_name": "Farrar",
+        "birth_year": "1766",
+        "birth_place": {
+            "name": " Mecklenburg, Virginia, USA",
+            "lat": 36.6798483,
+            "lon": -78.314746
+        },
+        "death_year": "1826",
+        "death_place": {
+            "name": " Mecklenburg, Virginia, USA",
+            "lat": 36.6798483,
+            "lon": -78.314746
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Farrar",
+        "birth_year": "1758",
+        "birth_place": {
+            "name": "Meckaeburg, Virginia, Colonial America, North America.",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1812",
+        "death_place": {
+            "name": "Person County, North Carolina, USA",
+            "lat": 36.3967816,
+            "lon": -78.9882995
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "William Puryear",
+        "last_name": "Farrar",
+        "birth_year": "1763",
+        "birth_place": {
+            "name": "Mecklenburg County, Virginia, USA",
+            "lat": 36.6798483,
+            "lon": -78.314746
+        },
+        "death_year": "1788",
+        "death_place": {
+            "name": "Granville County, North Carolina, USA",
+            "lat": 36.3210127,
+            "lon": -78.6593963
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Solomon",
+        "last_name": "Stephens",
+        "birth_year": "1757",
+        "birth_place": {
+            "name": "North Carolina, United States",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1838",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Thomas T. C.",
+        "last_name": "Cotten",
+        "birth_year": "1692",
+        "birth_place": {
+            "name": "Sussex County, Colonial America, Virginia, USA",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1778",
+        "death_place": {
+            "name": "Sussex, VA, Virginia, USA",
+            "lat": 36.9096897,
+            "lon": -77.2741121
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Frances",
+        "last_name": "Wilson",
+        "birth_year": "1793",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1880",
+        "death_place": {
+            "name": ", Wake, North Carolina, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John Thomas",
+        "last_name": "Womble",
+        "birth_year": "1789",
+        "birth_place": {
+            "name": ", Isle of Wight, Virginia, USA",
+            "lat": 36.8953677,
+            "lon": -76.7248143
+        },
+        "death_year": "1850",
+        "death_place": {
+            "name": ",Wake, NC, USA",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Zebulon Vance",
+        "last_name": "Hearn",
+        "birth_year": "1886",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1979",
+        "death_place": {
+            "name": "Laurinburg, Scotland, North Carolina, USA",
+            "lat": 34.7740495,
+            "lon": -79.4628248
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Lavader",
+        "last_name": "Hearn",
+        "birth_year": "1891",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Betty Elizabeth",
+        "last_name": "Hearn",
+        "birth_year": "1895",
+        "birth_place": {
+            "name": "North Carolina",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1969",
+        "death_place": {
+            "name": "Fayetteville, Cumberland, North Carolina",
+            "lat": 35.0525759,
+            "lon": -78.878292
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Hattie",
+        "last_name": "Hearn",
+        "birth_year": "1884",
+        "birth_place": {
+            "name": "MT Gilead",
+            "lat": 40.5492265,
+            "lon": -82.8274015
+        },
+        "death_year": "1928",
+        "death_place": {
+            "name": "ROCKY POINT   PENDER  N.C.",
+            "lat": 34.4351676,
+            "lon": -77.8877638
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Marshall Cleo",
+        "last_name": "Hearn",
+        "birth_year": "1900",
+        "birth_place": {
+            "name": "North Carolina, United States",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1951",
+        "death_place": {
+            "name": "Fayetteville, Cumberland, North Carolina",
+            "lat": 35.0525759,
+            "lon": -78.878292
+        },
+        "color": "orange"
+    },
+    {
+        "first_name": "Rebecca",
+        "last_name": "Woodward",
+        "birth_year": "1792",
+        "birth_place": {
+            "name": "Virginia, United States",
+            "lat": 37.1232245,
+            "lon": -78.4927721
+        },
+        "death_year": "1870",
+        "death_place": {
+            "name": "Wake, North Carolina, United States",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Woodward",
+        "birth_year": "1764",
+        "birth_place": {
+            "name": "St James Parish, Goochland County, Virginia",
+            "lat": null,
+            "lon": null
+        },
+        "death_year": "1821",
+        "death_place": {
+            "name": "Spafford, Onondaga County, New York",
+            "lat": 42.8045121,
+            "lon": -76.2649296
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "William",
+        "last_name": "Womble",
+        "birth_year": "1748",
+        "birth_place": {
+            "name": "Isle of Wight, Isle of Wight, Virginia, United States",
+            "lat": 36.9076493,
+            "lon": -76.707735
+        },
+        "death_year": "1825",
+        "death_place": {
+            "name": "Wake, North Carolina, United States",
+            "lat": 35.7979355,
+            "lon": -78.6118311
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Blumer",
+        "last_name": "Wilson",
+        "birth_year": "1750",
+        "birth_place": {
+            "name": "Craven, North Carolina, United States",
+            "lat": 35.0808574,
+            "lon": -77.0439978
+        },
+        "death_year": "1827",
+        "death_place": {
+            "name": "Chatham, North Carolina, United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Capt Michael Ebenezer",
+        "last_name": "Wilson",
+        "birth_year": "1727",
+        "birth_place": {
+            "name": "Wrentham, Norfolk, Massachusetts, USA",
+            "lat": 42.0667652,
+            "lon": -71.3281114
+        },
+        "death_year": "1829",
+        "death_place": {
+            "name": "West Middlebury, Wyoming County, New York, United States of America",
+            "lat": 42.8625605,
+            "lon": -78.1514021
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Samuel",
+        "last_name": "Hillard",
+        "birth_year": "1745",
+        "birth_place": {
+            "name": "Derbyshire, England",
+            "lat": 53.1185033,
+            "lon": -1.5566179305872214
+        },
+        "death_year": "1831",
+        "death_place": {
+            "name": "Clarendon, Vermont ",
+            "lat": 43.5182261,
+            "lon": -72.9711607
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "William",
+        "last_name": "Womble",
+        "birth_year": "1748",
+        "birth_place": {
+            "name": "Isle of Wight, Isle of Wight, Virginia, United States",
+            "lat": 36.9076493,
+            "lon": -76.707735
+        },
+        "death_year": "1825",
+        "death_place": {
+            "name": "Buckhorn District, Wake County NC",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Thomas",
+        "last_name": "Lambeth",
+        "birth_year": "1789",
+        "birth_place": {
+            "name": "Chatham, North Carolina, United States",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "death_year": "1836",
+        "death_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Catherine",
+        "last_name": "Lambeth",
+        "birth_year": "1770",
+        "birth_place": {
+            "name": "North Carolina, USA",
+            "lat": 35.6729639,
+            "lon": -79.0392919
+        },
+        "death_year": "1823",
+        "death_place": {
+            "name": "Chatham County, North Carolina, USA",
+            "lat": 35.7151316,
+            "lon": -79.2533035
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Susanna",
+        "last_name": "Seagraves",
+        "birth_year": "1698",
+        "birth_place": {
+            "name": "Isle of Wight, Virginia, USA",
+            "lat": 36.8953677,
+            "lon": -76.7248143
+        },
+        "death_year": "1751",
+        "death_place": {
+            "name": "Isle Wright, VA, USA",
+            "lat": 28.397772028648102,
+            "lon": -81.39717381286209
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Henry",
+        "last_name": "Wilson",
+        "birth_year": "1690",
+        "birth_place": {
+            "name": "Wrentham, Norfolk, Massachusetts, USA",
+            "lat": 42.0667652,
+            "lon": -71.3281114
+        },
+        "death_year": "1769",
+        "death_place": {
+            "name": "Wrentham, Norfolk, Massachusetts, USA",
+            "lat": 42.0667652,
+            "lon": -71.3281114
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Henry Dorchester",
+        "last_name": "Woodward",
+        "birth_year": "1697",
+        "birth_place": {
+            "name": "Bath, Beaufort, North Carolina, United States",
+            "lat": 35.4771094,
+            "lon": -76.8116045
+        },
+        "death_year": "1734",
+        "death_place": {
+            "name": "Bath, Beaufort, North Carolina, United States",
+            "lat": 35.4771094,
+            "lon": -76.8116045
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "Robert",
+        "last_name": "Hillard",
+        "birth_year": "1702",
+        "birth_place": {
+            "name": "Ballygarvan, 5298, , Ireland",
+            "lat": 51.8241133,
+            "lon": -8.4621398
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "green"
+    },
+    {
+        "first_name": "Mary",
+        "last_name": "Cox",
+        "birth_year": "1612",
+        "birth_place": {
+            "name": "Wroughton, Wiltshire, England",
+            "lat": 51.43685825,
+            "lon": -1.803354874435503
+        },
+        "death_year": "1667",
+        "death_place": {
+            "name": "Wroughton, Wiltshire, England",
+            "lat": 51.43685825,
+            "lon": -1.803354874435503
+        },
+        "color": "purple"
+    },
+    {
+        "first_name": "John Francis",
+        "last_name": "Cox",
+        "birth_year": "1585",
+        "birth_place": {
+            "name": "Wroughton, Wiltshire, , England",
+            "lat": 51.43685825,
+            "lon": -1.803354874435503
+        },
+        "death_year": "1642",
+        "death_place": {
+            "name": "Wroughton, Wiltshire, , England",
+            "lat": 51.43685825,
+            "lon": -1.803354874435503
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Jhon",
+        "last_name": "Cox",
+        "birth_year": "1544",
+        "birth_place": {
+            "name": "Upton, Buckinghamshire, England, United Kingdom",
+            "lat": 51.7965932,
+            "lon": -0.8806455
+        },
+        "death_year": "1598",
+        "death_place": {
+            "name": "Cublington, Buckinghamshire, England, United Kingdom",
+            "lat": 51.893682150000004,
+            "lon": -0.7827925759644785
+        },
+        "color": "blue"
+    },
+    {
+        "first_name": "Anson T.",
+        "last_name": "Kelly",
+        "birth_year": "1857",
+        "birth_place": {
+            "name": ", Moore, N. C.",
+            "lat": 35.3054614,
+            "lon": -79.4761236
+        },
+        "death_year": "1929",
+        "death_place": {
+            "name": "Cape Fear, Lee, North Carolina",
+            "lat": 35.58814799897784,
+            "lon": -79.05734237268183
+        },
+        "color": "orange"
+    }
 ]
