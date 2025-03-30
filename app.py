@@ -7,16 +7,28 @@ import os
 
 app = Flask(__name__)
 
-# Load data from data.json
-try:
-    with open("data.json", "r") as f:
-        genealogy_data = json.load(f)
-except FileNotFoundError:
-    genealogy_data = []
-    print("Warning: data.json not found")
+# Available datasets
+DATASETS = {
+    "newton": "newton_data.json",
+    "stevens": "stevens_data.json"
+}
+
+def load_data(dataset_name):
+    """Load the specified dataset or return empty list if not found."""
+    filename = DATASETS.get(dataset_name, "newton_data.json")  # Default
+    try:
+        with open(filename, "r") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        print(f"Warning: {filename} not found")
+        return []
 
 @app.route('/')
-def index():
+@app.route('/<dataset>')
+def index(dataset="newton"):
+    # Load the selected dataset
+    genealogy_data = load_data(dataset)
+    
     # Initialize map
     m = folium.Map(location=[40, -40], zoom_start=4)
     marker_cluster = MarkerCluster(
