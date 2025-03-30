@@ -56,7 +56,7 @@ def index():
             coords = (death_place["lat"], death_place["lon"])
             if coords not in coord_groups:
                 coord_groups[coords] = {"color": person["color"], "people": [], "offset_count": 0}
-            entry = f"{full_name} ({death_year})"
+            entry = f"{full_name} (d.{death_year})"
             if entry not in coord_groups[coords]["people"]:
                 coord_groups[coords]["people"].append(entry)
 
