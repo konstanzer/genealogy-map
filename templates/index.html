@@ -1,20 +1,39 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Genealogy Map</title>
-    <h3>Newton Genealogy and Migrations (1500-Present)</h3>
+    <style>
+        body {
+            margin: 0;  /* Remove default body margin */
+            font-family: Arial, sans-serif;
+        }
+        #title {
+            text-align: center;  /* Center the title */
+            margin: 10px 0;      /* Space above and below title */
+        }
+        #map {
+            width: 100%;
+            height: 80vh;       /* Map takes 80% of viewport height */
+        }
+        #button-container {
+            text-align: center;  /* Center buttons */
+            padding: 10px;       /* Space around buttons */
+            position: relative;  /* Ensure it stays below map */
+            z-index: 1000;       /* Keep above map layers */
+        }
+        button {
+            margin: 0 10px;      /* Space between buttons */
+            padding: 5px 15px;   /* Button size */
+            cursor: pointer;
+        }
+    </style>
     {{ map_html|safe }}
 </head>
 <body>
-    <div id="map" style="width: 100%; height: 80vh;"></div>
-    <div>
-        <!-- Button to switch datasets -->
-        {% if current_dataset == "newton" %}
-            <button onclick="window.location.href='/stevens'">Stevens Data)</button>
-        {% else %}
-            <button onclick="window.location.href='/newton'">Newton Data</button>
-        {% endif %}
+    <h3 id="title">Newton Genealogy and Migrations (1500-Present)</h3>
+    <div id="map"></div>
+    <div id="button-container">
+        <button onclick="window.location.href='/newton'">Newton Data</button>
+        <button onclick="window.location.href='/stevens'">Stevens Data</button>
     </div>
 </body>
 </html>
-
