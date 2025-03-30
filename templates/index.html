@@ -18,8 +18,8 @@
             height: 100vh;
         }
         #header {
-            flex: 0 0 auto; /* Fixed height */
-            background-color: #ffffff; /* White background for header */
+            flex: 0 0 auto; /* Fixed height based on content */
+            background-color: #ffffff;
             border-bottom: 1px solid #ddd;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
         }
@@ -33,15 +33,15 @@
         }
         #button-container {
             text-align: center;
-            padding: 5px 0; /* Reduced padding for tighter fit */
+            padding: 5px 0;
             z-index: 1000;
         }
         #map {
             width: 100%;
-            height: calc(100vh - 80px); /* Adjust for header height */
+            flex: 1 1 auto; /* Fill remaining space dynamically */
+            min-height: 0; /* Prevent overflow */
             border: 1px solid #ddd;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            flex: 1 0 auto; /* Fill remaining space */
         }
         button {
             margin: 0 15px;
@@ -68,7 +68,7 @@
 </head>
 <body>
     <div id="header">
-        <h3 id="title">Familiar Migrations (1500-Present)</h3>
+        <h3 id="title">Newton & Stevens Migrations (1500-Present)</h3>
         <div id="button-container">
             <button onclick="window.location.href='/newton'">Newton Data</button>
             <button onclick="window.location.href='/stevens'">Stevens Data</button>
