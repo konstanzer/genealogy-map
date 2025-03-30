@@ -5644,23 +5644,6 @@
         "color": "purple"
     },
     {
-        "first_name": "DOROTHY",
-        "last_name": "Cooke",
-        "birth_year": "1500",
-        "birth_place": {
-            "name": "Harbridge Green, Hampshire, England",
-            "lat": 50.8977608,
-            "lon": -1.7992603
-        },
-        "death_year": "1583",
-        "death_place": {
-            "name": "Kingston, Isle of Wight, Hampshire, England",
-            "lat": 50.63273627312612, 
-            "lon": -1.3290516884928902
-        },
-        "color": "blue"
-    },
-    {
         "first_name": "Agnes Mewes",
         "last_name": "Muse",
         "birth_year": "1626",
