@@ -19,8 +19,8 @@ except FileNotFoundError:
 def index():
     # Initialize map
     m = folium.Map(location=[40, -38], zoom_start=4)
-    marker_cluster = MarkerCluster(max_cluster_radius=30,
-                                   disable_clustering_at_zoom=8,
+    marker_cluster = MarkerCluster(max_cluster_radius=40,
+                                   disable_clustering_at_zoom=7,
                                    spiderfy_on_max_zoom=False,
                                    spiderfy_distance_multiplier=1.5).add_to(m)
 
