@@ -6,16 +6,22 @@
         html, body {
             margin: 0;
             padding: 0;
-            height: 100%;        /* Full viewport */
+            height: 100%;
             font-family: 'Segoe UI', Arial, sans-serif;
             background-color: #f4f6f8;
             color: #333;
-            overflow: hidden;    /* No scrolling */
+            overflow: hidden; /* No page scroll */
         }
         body {
             display: flex;
             flex-direction: column;
-            height: 100vh;       /* Exact viewport height */
+            height: 100vh;
+        }
+        #header {
+            flex: 0 0 auto; /* Fixed height */
+            background-color: #ffffff; /* White background for header */
+            border-bottom: 1px solid #ddd;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
         }
         #title {
             text-align: center;
@@ -24,24 +30,18 @@
             font-weight: 600;
             color: #2c3e50;
             text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
-            flex: 0 0 auto;
-        }
-        #map {
-            width: 100%;
-            height: calc(100vh - 60px - 40px); /* Fit within 100vh minus title and buttons */
-            border: 1px solid #ddd;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            flex: 0 0 auto;
         }
         #button-container {
             text-align: center;
-            padding: 10px 0;
-            background-color: #ffffff;
-            border-top: 1px solid #ddd;
-            box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.05);
-            flex: 0 0 auto;
-            width: 100%;
+            padding: 5px 0; /* Reduced padding for tighter fit */
             z-index: 1000;
+        }
+        #map {
+            width: 100%;
+            height: calc(100vh - 80px); /* Adjust for header height */
+            border: 1px solid #ddd;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            flex: 1 0 auto; /* Fill remaining space */
         }
         button {
             margin: 0 15px;
@@ -67,11 +67,13 @@
     {{ map_html|safe }}
 </head>
 <body>
-    <h3 id="title">Newton & Stevens Migrations (1500-Present)</h3>
-    <div id="map"></div>
-    <div id="button-container">
-        <button onclick="window.location.href='/newton'">Newton Data</button>
-        <button onclick="window.location.href='/stevens'">Stevens Data</button>
+    <div id="header">
+        <h3 id="title">Familiar Migrations (1500-Present)</h3>
+        <div id="button-container">
+            <button onclick="window.location.href='/newton'">Newton Data</button>
+            <button onclick="window.location.href='/stevens'">Stevens Data</button>
+        </div>
     </div>
+    <div id="map"></div>
 </body>
 </html>
