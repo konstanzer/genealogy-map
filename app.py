@@ -42,8 +42,3 @@ def index():
 
     # Render map in HTML template
     return render_template('index.html', map_html=m._repr_html_())
-
-if __name__ == '__main__':
-    # Render assigns a PORT env var; default to 10000 for local testing
-    port = int(os.environ.get("PORT", 10000))
-    app.run(host='0.0.0.0', port=port, debug=False)
