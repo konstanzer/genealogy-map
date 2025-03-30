@@ -45,8 +45,8 @@
         "death_year": "1989",
         "death_place": {
             "name": "Albany, NY",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "red"
     },
@@ -62,8 +62,8 @@
         "death_year": "2006",
         "death_place": {
             "name": "Selkirk, Albany, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.5323027,
+            "lon": -73.7984563
         },
         "color": "red"
     },
@@ -79,8 +79,8 @@
         "death_year": "1979",
         "death_place": {
             "name": "New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.7127281,
+            "lon": -74.0060152
         },
         "color": "orange"
     },
@@ -96,8 +96,8 @@
         "death_year": "1956",
         "death_place": {
             "name": "Coeymans, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.4739705,
+            "lon": -73.7923456
         },
         "color": "orange"
     },
@@ -113,8 +113,8 @@
         "death_year": "1945",
         "death_place": {
             "name": "Albany, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -130,8 +130,8 @@
         "death_year": "1960",
         "death_place": {
             "name": "New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.7127281,
+            "lon": -74.0060152
         },
         "color": "orange"
     },
@@ -147,8 +147,8 @@
         "death_year": "1981",
         "death_place": {
             "name": "Sanford, Lee, North Carolina, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 35.4798757,
+            "lon": -79.1802994
         },
         "color": "orange"
     },
@@ -181,8 +181,8 @@
         "death_year": "1920",
         "death_place": {
             "name": "Albany, Albany County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -198,8 +198,8 @@
         "death_year": "1867",
         "death_place": {
             "name": "Newtonville NY",
-            "lat": null,
-            "lon": null
+            "lat": 42.7245228,
+            "lon": -73.7584535
         },
         "color": "green"
     },
@@ -215,8 +215,8 @@
         "death_year": "1864",
         "death_place": {
             "name": "Newtonville, Albany County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 42.7245228,
+            "lon": -73.7584535
         },
         "color": "orange"
     },
@@ -232,8 +232,8 @@
         "death_year": "1847",
         "death_place": {
             "name": "New York  USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.7127281,
+            "lon": -74.0060152
         },
         "color": "green"
     },
@@ -249,8 +249,8 @@
         "death_year": "1836",
         "death_place": {
             "name": "Albany, Albany County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "green"
     },
@@ -266,8 +266,8 @@
         "death_year": "1819",
         "death_place": {
             "name": "Hillsdale NY",
-            "lat": null,
-            "lon": null
+            "lat": 42.1789784,
+            "lon": -73.5259511
         },
         "color": "green"
     },
@@ -283,8 +283,8 @@
         "death_year": "1788",
         "death_place": {
             "name": "Bridgehampton, Suffolk, New York, United States",
-            "lat": null,
-            "lon": null
+            "lat": 40.931293249999996,
+            "lon": -72.31037245354983
         },
         "color": "purple"
     },
@@ -300,8 +300,8 @@
         "death_year": "1848",
         "death_place": {
             "name": "Middlefield, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.3488648,
+            "lon": -73.0153049
         },
         "color": "green"
     },
@@ -317,8 +317,8 @@
         "death_year": "1854",
         "death_place": {
             "name": "Middlefield Township, Hampshire County, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.3488648,
+            "lon": -73.0153049
         },
         "color": "green"
     },
@@ -334,27 +334,10 @@
         "death_year": "1832",
         "death_place": {
             "name": "Pittsfield, Berkshire, Massachusetts",
-            "lat": null,
-            "lon": null
+            "lat": 42.4484778,
+            "lon": -73.2541069
         },
         "color": "green"
-    },
-    {
-        "first_name": "James Claude",
-        "last_name": "Muse",
-        "birth_year": "1871",
-        "birth_place": {
-            "name": "Kentucky, United States",
-            "lat": 37.5726028,
-            "lon": -85.1551411
-        },
-        "death_year": "1938",
-        "death_place": {
-            "name": "Unknown",
-            "lat": null,
-            "lon": null
-        },
-        "color": "orange"
     },
     {
         "first_name": "James Claude",
@@ -385,8 +368,8 @@
         "death_year": "1956",
         "death_place": {
             "name": "Albany, New York",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -419,8 +402,8 @@
         "death_year": "1942",
         "death_place": {
             "name": "Fleming, Kentucky, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.3663888,
+            "lon": -83.6790737
         },
         "color": "orange"
     },
@@ -453,8 +436,8 @@
         "death_year": "1853",
         "death_place": {
             "name": "Fleming, Kentucky, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.3663888,
+            "lon": -83.6790737
         },
         "color": "orange"
     },
@@ -470,8 +453,8 @@
         "death_year": "1837",
         "death_place": {
             "name": "Fleming, Kentucky, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.3663888,
+            "lon": -83.6790737
         },
         "color": "green"
     },
@@ -487,8 +470,8 @@
         "death_year": "1867",
         "death_place": {
             "name": "Flemingsburg, Fleming, Kentucky, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.4222995,
+            "lon": -83.7338076
         },
         "color": "green"
     },
@@ -504,8 +487,8 @@
         "death_year": "1807",
         "death_place": {
             "name": "Bloomfield, Chester, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.84592016735826, 
+            "lon": -75.37082596007177
         },
         "color": "green"
     },
@@ -521,8 +504,8 @@
         "death_year": "1829",
         "death_place": {
             "name": "Lampeter, Lancaster County, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.9900992,
+            "lon": -76.2396797
         },
         "color": "green"
     },
@@ -538,8 +521,8 @@
         "death_year": "1780",
         "death_place": {
             "name": "Banks of the St. Lawrence River--Montreal, Quebec City, Quebec, Canada",
-            "lat": null,
-            "lon": null
+            "lat": 45.928295546182056, 
+            "lon": -73.2840720835426
         },
         "color": "green"
     },
@@ -555,8 +538,8 @@
         "death_year": "1765",
         "death_place": {
             "name": "Byberry, Philadelphia, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.1112214,
+            "lon": -74.9862801
         },
         "color": "purple"
     },
@@ -572,8 +555,8 @@
         "death_year": "1753",
         "death_place": {
             "name": "Bucks, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.3451668,
+            "lon": -75.1263909
         },
         "color": "purple"
     },
@@ -589,8 +572,8 @@
         "death_year": "1711",
         "death_place": {
             "name": "Byberry, Philadelphia, Pennsylvania",
-            "lat": null,
-            "lon": null
+            "lat": 40.1112214,
+            "lon": -74.9862801
         },
         "color": "purple"
     },
@@ -606,8 +589,8 @@
         "death_year": "1695",
         "death_place": {
             "name": "Springfield, Chester, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.9329957310643, 
+            "lon": -75.38138305325437
         },
         "color": "purple"
     },
@@ -634,14 +617,14 @@
         "birth_year": "1845",
         "birth_place": {
             "name": "MT Gilbad Fleming, Kentucky",
-            "lat": null,
-            "lon": null
+            "lat": 38.51264980113124, 
+            "lon": -83.7165648211209
         },
         "death_year": "1942",
         "death_place": {
             "name": "Fleming, Kentucky, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.3663888,
+            "lon": -83.6790737
         },
         "color": "orange"
     },
@@ -657,8 +640,8 @@
         "death_year": "1927",
         "death_place": {
             "name": "Ramsey County, Minnesota, USA",
-            "lat": null,
-            "lon": null
+            "lat": 45.0165728,
+            "lon": -93.0949501
         },
         "color": "orange"
     },
@@ -691,8 +674,8 @@
         "death_year": "1894",
         "death_place": {
             "name": "Madison, Jefferson, Indiana, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.7358933,
+            "lon": -85.3799577
         },
         "color": "orange"
     },
@@ -708,8 +691,8 @@
         "death_year": "1900",
         "death_place": {
             "name": "Albany, Albany, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -725,8 +708,8 @@
         "death_year": "1853",
         "death_place": {
             "name": "Fleming, Kentucky, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.3663888,
+            "lon": -83.6790737
         },
         "color": "orange"
     },
@@ -759,8 +742,8 @@
         "death_year": "1956",
         "death_place": {
             "name": "Broadway, Lee, North Carolina, USA",
-            "lat": null,
-            "lon": null
+            "lat": 35.4579333,
+            "lon": -79.0530768
         },
         "color": "orange"
     },
@@ -793,8 +776,8 @@
         "death_year": "1885",
         "death_place": {
             "name": "Moore County, North Carolina, USA",
-            "lat": null,
-            "lon": null
+            "lat": 35.3054614,
+            "lon": -79.4761236
         },
         "color": "orange"
     },
@@ -827,8 +810,8 @@
         "death_year": "1818",
         "death_place": {
             "name": "Peru, Berkshire, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.4378398,
+            "lon": -73.0461176
         },
         "color": "green"
     },
@@ -850,36 +833,36 @@
         "color": "purple"
     },
     {
-        "first_name": "Captain James",
+        "first_name": "Capt. James",
         "last_name": "Newton",
         "birth_year": "1654",
         "birth_place": {
             "name": "Stratford, Fairfield County, Connecticut, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 41.18568383760814, 
+            "lon": -73.14001066257765
         },
         "death_year": "1739",
         "death_place": {
             "name": "Colchester, New London County, Connecticut, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 41.4743349797957,
+            "lon": -72.18801062101998
         },
         "color": "purple"
     },
     {
-        "first_name": "Sir Captain Thomas John",
+        "first_name": "Sir Capt. Thomas John",
         "last_name": "Newton",
         "birth_year": "1612",
         "birth_place": {
             "name": "near Manchester, Cheshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 53.464702571535355, 
+            "lon": -2.256451336346102
         },
         "death_year": "1682",
         "death_place": {
             "name": "Newtown, Livingston, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.14473709283111, 
+            "lon": -73.78632490833012
         },
         "color": "purple"
     },
@@ -889,14 +872,14 @@
         "birth_year": "1587",
         "birth_place": {
             "name": "Little Ilford, Essex, England",
-            "lat": null,
-            "lon": null
+            "lat": 51.55157078144591, 
+            "lon": 0.05103465755788875
         },
         "death_year": "1640",
         "death_place": {
             "name": "Fairfield, Fairfield County, Connecticut, Colonial America",
-            "lat": null,
-            "lon": null
+            "lat": 41.1428951,
+            "lon": -73.2584121
         },
         "color": "blue"
     },
@@ -929,8 +912,8 @@
         "death_year": "1765",
         "death_place": {
             "name": "Lebanon, New London, Connecticut, United States",
-            "lat": null,
-            "lon": null
+            "lat": 41.57032055844767,
+            "lon": -72.13274522907649
         },
         "color": "green"
     },
@@ -946,8 +929,8 @@
         "death_year": "1814",
         "death_place": {
             "name": "Bozrah, New London, Connecticut",
-            "lat": null,
-            "lon": null
+            "lat": 41.5505962,
+            "lon": -72.168238
         },
         "color": "green"
     },
@@ -957,14 +940,14 @@
         "birth_year": "1726",
         "birth_place": {
             "name": "Norwich, New London County, Connecticut, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 41.53811715,
+            "lon": -72.08038405156037
         },
         "death_year": "1786",
         "death_place": {
             "name": "Bozrah, New London, Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.5505962,
+            "lon": -72.168238
         },
         "color": "green"
     },
@@ -1048,8 +1031,8 @@
         "death_year": "1927",
         "death_place": {
             "name": "Ramsey County, Minnesota, USA",
-            "lat": null,
-            "lon": null
+            "lat": 45.0165728,
+            "lon": -93.0949501
         },
         "color": "orange"
     },
@@ -1082,8 +1065,8 @@
         "death_year": "1965",
         "death_place": {
             "name": "Albany, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -1116,8 +1099,8 @@
         "death_year": "1945",
         "death_place": {
             "name": "Los Angeles, California",
-            "lat": null,
-            "lon": null
+            "lat": 34.0536909,
+            "lon": -118.242766
         },
         "color": "orange"
     },
@@ -1133,8 +1116,8 @@
         "death_year": "1894",
         "death_place": {
             "name": "Madison, Jefferson, Indiana, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.7358933,
+            "lon": -85.3799577
         },
         "color": "orange"
     },
@@ -1184,8 +1167,8 @@
         "death_year": "1911",
         "death_place": {
             "name": "Madison, Jefferson County, Indiana",
-            "lat": null,
-            "lon": null
+            "lat": 38.7358933,
+            "lon": -85.3799577
         },
         "color": "orange"
     },
@@ -1218,8 +1201,8 @@
         "death_year": "1866",
         "death_place": {
             "name": "Madison, Jefferson County, Indiana, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 38.7358933,
+            "lon": -85.3799577
         },
         "color": "green"
     },
@@ -1235,8 +1218,8 @@
         "death_year": "1784",
         "death_place": {
             "name": "Attleborough, Bristol, Massachusetts, United States",
-            "lat": null,
-            "lon": null
+            "lat": 41.9841334,
+            "lon": -71.3322798
         },
         "color": "green"
     },
@@ -1252,8 +1235,8 @@
         "death_year": "1797",
         "death_place": {
             "name": "Attleboro, Bristol, Massachusetts, United States",
-            "lat": null,
-            "lon": null
+            "lat": 41.9439695,
+            "lon": -71.2804301
         },
         "color": "green"
     },
@@ -1269,8 +1252,8 @@
         "death_year": "1769",
         "death_place": {
             "name": "Canton, Norfolk County, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 42.1584324,
+            "lon": -71.1447732
         },
         "color": "purple"
     },
@@ -1286,8 +1269,8 @@
         "death_year": "1773",
         "death_place": {
             "name": "Stoughton, Norfolk, Massachusetts, United States",
-            "lat": null,
-            "lon": null
+            "lat": 42.1252079,
+            "lon": -71.1022015
         },
         "color": "purple"
     },
@@ -1303,8 +1286,8 @@
         "death_year": "1733",
         "death_place": {
             "name": "Stoughton, Norfolk, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.1252079,
+            "lon": -71.1022015
         },
         "color": "purple"
     },
@@ -1320,8 +1303,8 @@
         "death_year": "1694",
         "death_place": {
             "name": "Dorchester, Mass, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.2973205,
+            "lon": -71.0744952
         },
         "color": "purple"
     },
@@ -1337,8 +1320,8 @@
         "death_year": "1829",
         "death_place": {
             "name": "Newtonville, Albany County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 42.7245228,
+            "lon": -73.7584535
         },
         "color": "orange"
     },
@@ -1354,8 +1337,8 @@
         "death_year": "1844",
         "death_place": {
             "name": "Albany, New York",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -1371,8 +1354,8 @@
         "death_year": "1858",
         "death_place": {
             "name": "Albany County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 42.5986896,
+            "lon": -73.9843997
         },
         "color": "orange"
     },
@@ -1388,8 +1371,8 @@
         "death_year": "1903",
         "death_place": {
             "name": "Plattsburgh, Clinton County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 44.6960855,
+            "lon": -73.4542915
         },
         "color": "orange"
     },
@@ -1405,8 +1388,8 @@
         "death_year": "1971",
         "death_place": {
             "name": "Orange County, Florida, USA",
-            "lat": null,
-            "lon": null
+            "lat": 28.495156,
+            "lon": -81.3111658
         },
         "color": "red"
     },
@@ -1422,8 +1405,8 @@
         "death_year": "1975",
         "death_place": {
             "name": "City of Winter Park, Orange County, Florida, USA",
-            "lat": null,
-            "lon": null
+            "lat": 28.5950496,
+            "lon": -81.3520029
         },
         "color": "orange"
     },
@@ -1456,8 +1439,8 @@
         "death_year": "1906",
         "death_place": {
             "name": "City of Albany, Albany County, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -1490,8 +1473,8 @@
         "death_year": "1902",
         "death_place": {
             "name": "Ballston Spa, Saratoga County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 43.0009087,
+            "lon": -73.8490111
         },
         "color": "orange"
     },
@@ -1507,8 +1490,8 @@
         "death_year": "1899",
         "death_place": {
             "name": "Albany, Albany County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -1524,8 +1507,8 @@
         "death_year": "1859",
         "death_place": {
             "name": "Albany County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 42.5986896,
+            "lon": -73.9843997
         },
         "color": "orange"
     },
@@ -1541,8 +1524,8 @@
         "death_year": "1854",
         "death_place": {
             "name": "Mishawaka, St Joseph, Indiana, United States",
-            "lat": null,
-            "lon": null
+            "lat": 41.6611642,
+            "lon": -86.1807031
         },
         "color": "green"
     },
@@ -1558,8 +1541,8 @@
         "death_year": "1849",
         "death_place": {
             "name": "of Oxford, Erie, Ohio, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.318285590085274, 
+            "lon": -82.69806599632356
         },
         "color": "green"
     },
@@ -1575,8 +1558,8 @@
         "death_year": "1794",
         "death_place": {
             "name": "Middlefield, Hampshire, Massachusetts, United States",
-            "lat": null,
-            "lon": null
+            "lat": 42.3488648,
+            "lon": -73.0153049
         },
         "color": "green"
     },
@@ -1592,8 +1575,8 @@
         "death_year": "1872",
         "death_place": {
             "name": "Albany County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 42.5986896,
+            "lon": -73.9843997
         },
         "color": "green"
     },
@@ -1609,8 +1592,8 @@
         "death_year": "1878",
         "death_place": {
             "name": "Hampden, Hampden, Massachusetts, United States",
-            "lat": null,
-            "lon": null
+            "lat": 42.0641195,
+            "lon": -72.413682
         },
         "color": "green"
     },
@@ -1626,8 +1609,8 @@
         "death_year": "1884",
         "death_place": {
             "name": "Grandview, Sangamon, Illinois, United States",
-            "lat": null,
-            "lon": null
+            "lat": 39.817477499999995,
+            "lon": -89.61877876568266
         },
         "color": "orange"
     },
@@ -1671,14 +1654,14 @@
         "birth_year": "1775",
         "birth_place": {
             "name": "Westport, Fairfield County, Connecticut, British Colony",
-            "lat": null,
-            "lon": null
+            "lat": 41.144024126880815, 
+            "lon": -73.34414412802896
         },
         "death_year": "1816",
         "death_place": {
             "name": "Wilton, Saratoga County, New York, United States",
-            "lat": null,
-            "lon": null
+            "lat": 43.1800049,
+            "lon": -73.7443092
         },
         "color": "green"
     },
@@ -1694,8 +1677,8 @@
         "death_year": "1854",
         "death_place": {
             "name": "Glens Falls, Warren, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 43.309941,
+            "lon": -73.644447
         },
         "color": "orange"
     },
@@ -1762,8 +1745,8 @@
         "death_year": "1840",
         "death_place": {
             "name": "Troy, Rensselaer, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.7284117,
+            "lon": -73.6917878
         },
         "color": "orange"
     },
@@ -1790,8 +1773,8 @@
         "birth_year": "1761",
         "birth_place": {
             "name": "Colchester, New London County, Connecticut, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 41.5756543,
+            "lon": -72.3320269
         },
         "death_year": "Unknown",
         "death_place": {
@@ -1813,8 +1796,8 @@
         "death_year": "1838",
         "death_place": {
             "name": "Otsego, N Y",
-            "lat": null,
-            "lon": null
+            "lat": 42.5984272,
+            "lon": -75.0142701
         },
         "color": "green"
     },
@@ -1847,8 +1830,8 @@
         "death_year": "1856",
         "death_place": {
             "name": "Albany, Albany, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "green"
     },
@@ -1864,8 +1847,8 @@
         "death_year": "1804",
         "death_place": {
             "name": "Colchester, New London County, Connecticut, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 41.5756543,
+            "lon": -72.3320269
         },
         "color": "green"
     },
@@ -1932,8 +1915,8 @@
         "death_year": "1797",
         "death_place": {
             "name": "Athens, Bradford, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.9572965,
+            "lon": -76.5179991
         },
         "color": "green"
     },
@@ -1977,14 +1960,14 @@
         "birth_year": "1694/95",
         "birth_place": {
             "name": "Colchester, Fairfield, Fairfield, Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.5756543,
+            "lon": -72.3320269
         },
         "death_year": "1745",
         "death_place": {
             "name": "Flat Point, Louisburg Harbor, Nova Scotia, Cape Breton",
-            "lat": null,
-            "lon": null
+            "lat": 45.91737961995656, 
+            "lon": -59.99602455505232
         },
         "color": "gray"
     },
@@ -2000,8 +1983,8 @@
         "death_year": "1778",
         "death_place": {
             "name": "Colchester, New London, Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.4743349797957,
+            "lon": -72.18801062101998
         },
         "color": "gray"
     },
@@ -2017,8 +2000,8 @@
         "death_year": "1779",
         "death_place": {
             "name": "Colchester, New London, Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.4743349797957,
+            "lon": -72.18801062101998
         },
         "color": "purple"
     },
@@ -2074,7 +2057,7 @@
         "color": "purple"
     },
     {
-        "first_name": "Captain Thomas \"Smith\"",
+        "first_name": "Capt. Thomas \"Smith\"",
         "last_name": "Newton",
         "birth_year": "1649",
         "birth_place": {
@@ -2085,8 +2068,8 @@
         "death_year": "1678",
         "death_place": {
             "name": "Kingston, Washington, Rhode Island, Colonial  America",
-            "lat": null,
-            "lon": null
+            "lat": 41.4745460753932, 
+            "lon": -71.52409457574541
         },
         "color": "purple"
     },
@@ -2102,8 +2085,8 @@
         "death_year": "1745",
         "death_place": {
             "name": "Fairfield, New Haven, Connecticut, Colonial America",
-            "lat": null,
-            "lon": null
+            "lat": 41.187831978585514,
+            "lon": -73.25214922449524
         },
         "color": "purple"
     },
@@ -2119,8 +2102,8 @@
         "death_year": "1670",
         "death_place": {
             "name": "Kingston, Washington, Rhode Island, Colonial America",
-            "lat": null,
-            "lon": null
+            "lat": 41.477890780677484, 
+            "lon": -71.5276129684306
         },
         "color": "purple"
     },
@@ -2204,8 +2187,8 @@
         "death_year": "1589",
         "death_place": {
             "name": "London, London, England",
-            "lat": null,
-            "lon": null
+            "lat": 51.4893335,
+            "lon": -0.14405508452768728
         },
         "color": "blue"
     },
@@ -2221,8 +2204,8 @@
         "death_year": "Unknown",
         "death_place": {
             "name": "England",
-            "lat": null,
-            "lon": null
+            "lat": 52.5310214,
+            "lon": -1.2649062
         },
         "color": "blue"
     },
@@ -2255,8 +2238,8 @@
         "death_year": "1948",
         "death_place": {
             "name": "St. Louis City, Missouri, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.6283593,
+            "lon": -90.2671379
         },
         "color": "orange"
     },
@@ -2272,8 +2255,8 @@
         "death_year": "2000",
         "death_place": {
             "name": "Peoria, Illinois, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.6938609,
+            "lon": -89.5891008
         },
         "color": "red"
     },
@@ -2289,8 +2272,8 @@
         "death_year": "2023",
         "death_place": {
             "name": "Eureka, Woodford, Illinois, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.7213015,
+            "lon": -89.2726708
         },
         "color": "red"
     },
@@ -2306,8 +2289,8 @@
         "death_year": "1953",
         "death_place": {
             "name": "Creve Coeur, St Louis, Missouri, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.677152199999995,
+            "lon": -90.45080865076523
         },
         "color": "orange"
     },
@@ -2323,8 +2306,8 @@
         "death_year": "1820",
         "death_place": {
             "name": "Coeymans, New York",
-            "lat": null,
-            "lon": null
+            "lat": 42.4739705,
+            "lon": -73.7923456
         },
         "color": "green"
     },
@@ -2340,14 +2323,14 @@
         "death_year": "1829",
         "death_place": {
             "name": "Charlton, Saratoga, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.9334089,
+            "lon": -73.9690142
         },
         "color": "green"
     },
     {
         "first_name": "Enoch",
-        "last_name": "Bowen",
+        "last_name": "Bowne",
         "birth_year": "1718",
         "birth_place": {
             "name": "Cohansey, Cumberland, New Jersey, United States",
@@ -2357,8 +2340,8 @@
         "death_year": "1776",
         "death_place": {
             "name": "Fairfield, Cumberland, New Jersey, United States",
-            "lat": null,
-            "lon": null
+            "lat": 39.36436020948509,
+            "lon": -75.27347629934955
         },
         "color": "green"
     },
@@ -2374,8 +2357,8 @@
         "death_year": "1942",
         "death_place": {
             "name": "Webster Groves, St Louis, Missouri, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.7025,
+            "lon": -90.2493
         },
         "color": "orange"
     },
@@ -2391,8 +2374,8 @@
         "death_year": "1980",
         "death_place": {
             "name": "Peoria, Peoria, Illinois, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.6938609,
+            "lon": -89.5891008
         },
         "color": "orange"
     },
@@ -2408,8 +2391,8 @@
         "death_year": "1912",
         "death_place": {
             "name": "Springfield, Greene, Missouri, USA",
-            "lat": null,
-            "lon": null
+            "lat": 37.2081729,
+            "lon": -93.2922715
         },
         "color": "orange"
     },
@@ -2425,8 +2408,8 @@
         "death_year": "1894",
         "death_place": {
             "name": "St. Louis, Missouri",
-            "lat": null,
-            "lon": null
+            "lat": 38.6280278,
+            "lon": -90.1910154
         },
         "color": "orange"
     },
@@ -2476,8 +2459,8 @@
         "death_year": "1948",
         "death_place": {
             "name": "Springfield, Greene, Missouri, USA",
-            "lat": null,
-            "lon": null
+            "lat": 37.2081729,
+            "lon": -93.2922715
         },
         "color": "orange"
     },
@@ -2493,8 +2476,8 @@
         "death_year": "1946",
         "death_place": {
             "name": "Indian Hills, Jefferson, Colorado, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.624480750000004,
+            "lon": -105.24323983328759
         },
         "color": "orange"
     },
@@ -2510,8 +2493,8 @@
         "death_year": "1957",
         "death_place": {
             "name": "Saint Louis, St Louis, Missouri, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.6234583,
+            "lon": -90.2044753
         },
         "color": "orange"
     },
@@ -2578,8 +2561,8 @@
         "death_year": "1873",
         "death_place": {
             "name": "Carlinville, Macoupin, Illinois, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.2797699,
+            "lon": -89.8817662
         },
         "color": "orange"
     },
@@ -2612,8 +2595,8 @@
         "death_year": "1925",
         "death_place": {
             "name": "Gro\u00dfen-Buseck, Hessen, Deutschland",
-            "lat": null,
-            "lon": null
+            "lat": 50.6080778,
+            "lon": 8.7868595
         },
         "color": "orange"
     },
@@ -2629,8 +2612,8 @@
         "death_year": "1821",
         "death_place": {
             "name": "Moore County, North Carolina, USA",
-            "lat": null,
-            "lon": null
+            "lat": 35.3054614,
+            "lon": -79.4761236
         },
         "color": "green"
     },
@@ -2646,8 +2629,8 @@
         "death_year": "1916",
         "death_place": {
             "name": "Coeymans, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.4739705,
+            "lon": -73.7923456
         },
         "color": "orange"
     },
@@ -2663,8 +2646,8 @@
         "death_year": "1849",
         "death_place": {
             "name": "Madison Township, Jefferson County, Indiana, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.77377743883219, 
+            "lon": -85.38943376096131
         },
         "color": "green"
     },
@@ -2680,13 +2663,13 @@
         "death_year": "1861",
         "death_place": {
             "name": "Milton Township, Jefferson, Indiana, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.76808000498604, 
+            "lon": -85.2531299198711
         },
         "color": "green"
     },
     {
-        "first_name": "John D DNA",
+        "first_name": "John D",
         "last_name": "Brandon",
         "birth_year": "1771",
         "birth_place": {
@@ -2697,8 +2680,8 @@
         "death_year": "1853",
         "death_place": {
             "name": "Cranberry Twp.,Venango County, Pennsylvania",
-            "lat": null,
-            "lon": null
+            "lat": 41.3714,
+            "lon": -79.70074755550755
         },
         "color": "green"
     },
@@ -2714,8 +2697,8 @@
         "death_year": "1873",
         "death_place": {
             "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": null,
-            "lon": null
+            "lat": 50.6080778,
+            "lon": 8.7868595
         },
         "color": "orange"
     },
@@ -2731,8 +2714,8 @@
         "death_year": "1900",
         "death_place": {
             "name": "Maysville, Mason, Kentucky, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.6474569,
+            "lon": -83.7644793
         },
         "color": "orange"
     },
@@ -2742,14 +2725,14 @@
         "birth_year": "1790",
         "birth_place": {
             "name": "Homestead, Buffalo, Union, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.93424533202005, 
+            "lon": -76.97771070217706
         },
         "death_year": "1875",
         "death_place": {
             "name": "Lincoln, Allegheny, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.2992843,
+            "lon": -79.8523129
         },
         "color": "green"
     },
@@ -2765,8 +2748,8 @@
         "death_year": "1876",
         "death_place": {
             "name": "Lincoln, Allegheny, Pennsylvania",
-            "lat": null,
-            "lon": null
+            "lat": 40.2992843,
+            "lon": -79.8523129
         },
         "color": "green"
     },
@@ -2782,8 +2765,8 @@
         "death_year": "1928",
         "death_place": {
             "name": "Coeymans, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.4739705,
+            "lon": -73.7923456
         },
         "color": "orange"
     },
@@ -2799,8 +2782,8 @@
         "death_year": "1825",
         "death_place": {
             "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": null,
-            "lon": null
+            "lat": 50.6080778,
+            "lon": 8.7868595
         },
         "color": "green"
     },
@@ -2833,8 +2816,8 @@
         "death_year": "1926",
         "death_place": {
             "name": "St Louis, Missouri, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.6280278,
+            "lon": -90.1910154
         },
         "color": "orange"
     },
@@ -2867,8 +2850,8 @@
         "death_year": "1871",
         "death_place": {
             "name": "Annerod,,,,,",
-            "lat": null,
-            "lon": null
+            "lat": 50.5797162,
+            "lon": 8.7521635
         },
         "color": "orange"
     },
@@ -3139,8 +3122,8 @@
         "death_year": "1827",
         "death_place": {
             "name": "Oppenrod, Giessen, Hessen, Deutschland",
-            "lat": null,
-            "lon": null
+            "lat": 50.5840626,
+            "lon": 8.8010953
         },
         "color": "green"
     },
@@ -3156,8 +3139,8 @@
         "death_year": "1815",
         "death_place": {
             "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": null,
-            "lon": null
+            "lat": 50.6080778,
+            "lon": 8.7868595
         },
         "color": "green"
     },
@@ -3190,8 +3173,8 @@
         "death_year": "1849",
         "death_place": {
             "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": null,
-            "lon": null
+            "lat": 50.6080778,
+            "lon": 8.7868595
         },
         "color": "green"
     },
@@ -3207,8 +3190,8 @@
         "death_year": "1855",
         "death_place": {
             "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": null,
-            "lon": null
+            "lat": 50.6080778,
+            "lon": 8.7868595
         },
         "color": "orange"
     },
@@ -3224,8 +3207,8 @@
         "death_year": "1872",
         "death_place": {
             "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": null,
-            "lon": null
+            "lat": 50.6080778,
+            "lon": 8.7868595
         },
         "color": "orange"
     },
@@ -3258,8 +3241,8 @@
         "death_year": "1904",
         "death_place": {
             "name": "Albany, New York",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -3275,8 +3258,8 @@
         "death_year": "1929",
         "death_place": {
             "name": "Bethlehem, Albany, NY",
-            "lat": null,
-            "lon": null
+            "lat": 42.6,
+            "lon": -73.833333
         },
         "color": "orange"
     },
@@ -3292,8 +3275,8 @@
         "death_year": "1928",
         "death_place": {
             "name": "Albany, New York",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -3309,8 +3292,8 @@
         "death_year": "1863",
         "death_place": {
             "name": "Albany, Albany , New York",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -3320,14 +3303,14 @@
         "birth_year": "1842",
         "birth_place": {
             "name": "pos. New Baltimore, Greene, NY",
-            "lat": null,
-            "lon": null
+            "lat": 42.44762377376566, 
+            "lon": -73.78973683692125
         },
         "death_year": "1845",
         "death_place": {
             "name": "pos. New Baltimore, Greene, NY",
-            "lat": null,
-            "lon": null
+            "lat": 42.44762377376566, 
+            "lon": -73.78973683692125
         },
         "color": "orange"
     },
@@ -3343,8 +3326,8 @@
         "death_year": "1854",
         "death_place": {
             "name": "Albany, Albany , New York",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -3377,8 +3360,8 @@
         "death_year": "1857",
         "death_place": {
             "name": "New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.7127281,
+            "lon": -74.0060152
         },
         "color": "green"
     },
@@ -3388,14 +3371,14 @@
         "birth_year": "1810",
         "birth_place": {
             "name": "East Hampton, L.I., NY",
-            "lat": null,
-            "lon": null
+            "lat": 40.948610601739, 
+            "lon": -72.20009952650139
         },
         "death_year": "1901",
         "death_place": {
             "name": "Elkhorn, Wisconsin",
-            "lat": null,
-            "lon": null
+            "lat": 42.6719206,
+            "lon": -88.543494
         },
         "color": "orange"
     },
@@ -3411,8 +3394,8 @@
         "death_year": "1883",
         "death_place": {
             "name": "ALBANY, ALBANY, NY",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -3428,8 +3411,8 @@
         "death_year": "1867",
         "death_place": {
             "name": "Albany, Albany, New York",
-            "lat": null,
-            "lon": null
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -3445,8 +3428,8 @@
         "death_year": "1851",
         "death_place": {
             "name": "New Baltimore, Greene County, New York",
-            "lat": null,
-            "lon": null
+            "lat": 42.4461934,
+            "lon": -73.7884568
         },
         "color": "green"
     },
@@ -3461,9 +3444,9 @@
         },
         "death_year": "1793",
         "death_place": {
-            "name": "Fire Place, Suffolk, New York, United States",
-            "lat": null,
-            "lon": null
+            "name": "Fire Place, Suffolk, New York, United States, coord. guess",
+            "lat": 40.95442028238227, 
+            "lon": -72.30599219209147
         },
         "color": "green"
     },
@@ -3479,8 +3462,8 @@
         "death_year": "1742",
         "death_place": {
             "name": "East Hampton, Suffolk County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 40.9633868,
+            "lon": -72.1847598
         },
         "color": "purple"
     },
@@ -3496,8 +3479,8 @@
         "death_year": "1714",
         "death_place": {
             "name": "East Hampton, Suffolk County, New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 40.9633868,
+            "lon": -72.1847598
         },
         "color": "purple"
     },
@@ -3592,8 +3575,8 @@
         "birth_year": "1852",
         "birth_place": {
             "name": "Fox, Fleming, Kentucky, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.395978253007044, 
+            "lon": -83.82966235865499
         },
         "death_year": "Unknown",
         "death_place": {
@@ -3632,8 +3615,8 @@
         "death_year": "1828",
         "death_place": {
             "name": "Fleming County, Kentucky, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.3663888,
+            "lon": -83.6790737
         },
         "color": "green"
     },
@@ -3642,15 +3625,15 @@
         "last_name": "Conrad",
         "birth_year": "1740",
         "birth_place": {
-            "name": "Providence, Rheinland-Pfalz, Germany",
-            "lat": null,
-            "lon": null
+            "name": "Providence, Rheinland-Pfalz, Germany, coord. guess",
+            "lat": 49.74602990604236, 
+            "lon": 6.608428266510085
         },
         "death_year": "1801",
         "death_place": {
             "name": "Harrison County, Kentucky, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.4355948,
+            "lon": -84.3216412
         },
         "color": "green"
     },
@@ -3660,14 +3643,14 @@
         "birth_year": "1706",
         "birth_place": {
             "name": "Mietesheim, Alsace, Germany",
-            "lat": null,
-            "lon": null
+            "lat": 48.87662567404852, 
+            "lon": 7.646439561820891
         },
         "death_year": "1765",
         "death_place": {
             "name": "Heidelberg, Lancaster, Pennsylvania, United States",
-            "lat": null,
-            "lon": null
+            "lat": 40.27997384229854, 
+            "lon": -76.32940288819333
         },
         "color": "green"
     },
@@ -3683,8 +3666,8 @@
         "death_year": "1832",
         "death_place": {
             "name": "Buffalo Valley, Union County, Pennsylvania, United States",
-            "lat": null,
-            "lon": null
+            "lat": 40.954486599999996,
+            "lon": -76.9451533
         },
         "color": "green"
     },
@@ -3700,8 +3683,8 @@
         "death_year": "1844",
         "death_place": {
             "name": "Elizabeth Twp, Allegheny Co, PA",
-            "lat": null,
-            "lon": null
+            "lat": 40.26434055,
+            "lon": -79.83325993858469
         },
         "color": "green"
     },
@@ -3717,8 +3700,8 @@
         "death_year": "1809",
         "death_place": {
             "name": "East Bradford, Chester, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.96127905,
+            "lon": -75.64022643633412
         },
         "color": "green"
     },
@@ -3734,8 +3717,8 @@
         "death_year": "1758",
         "death_place": {
             "name": "Woodbridge, Middlesex, New Jersey, United States",
-            "lat": null,
-            "lon": null
+            "lat": 40.55418,
+            "lon": -74.28600076944446
         },
         "color": "purple"
     },
@@ -3751,8 +3734,8 @@
         "death_year": "1758",
         "death_place": {
             "name": "Sadsbury, Lancaster, PA, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.92857505,
+            "lon": -76.02285427896155
         },
         "color": "purple"
     },
@@ -3768,8 +3751,8 @@
         "death_year": "1827",
         "death_place": {
             "name": "Plummers Landing, Fleming County, Kentucky, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 38.3189679,
+            "lon": -83.561023
         },
         "color": "green"
     },
@@ -3785,8 +3768,8 @@
         "death_year": "1791",
         "death_place": {
             "name": "Westmoreland Co, Virginia, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.1153203,
+            "lon": -76.7567355
         },
         "color": "green"
     },
@@ -3796,14 +3779,14 @@
         "birth_year": "1729",
         "birth_place": {
             "name": "Westmoreland County, Crown Colony Of Virginia",
-            "lat": null,
-            "lon": null
+            "lat": 38.12530804493622, 
+            "lon": -76.83027339020967
         },
         "death_year": "1828",
         "death_place": {
             "name": "Adams County, Ohio",
-            "lat": null,
-            "lon": null
+            "lat": 38.8398935,
+            "lon": -83.5051704
         },
         "color": "green"
     },
@@ -3836,8 +3819,8 @@
         "death_year": "1785",
         "death_place": {
             "name": "Fawn, York, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.953707300000005,
+            "lon": -76.71494755
         },
         "color": "green"
     },
@@ -3853,8 +3836,8 @@
         "death_year": "1787",
         "death_place": {
             "name": "Bozrah, New London, Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.5505962,
+            "lon": -72.168238
         },
         "color": "green"
     },
@@ -3870,8 +3853,8 @@
         "death_year": "2/28/1785",
         "death_place": {
             "name": "Haddam, Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.4773213,
+            "lon": -72.5120333
         },
         "color": "green"
     },
@@ -3887,8 +3870,8 @@
         "death_year": "1810",
         "death_place": {
             "name": "Boston, Suffolk, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.3554334,
+            "lon": -71.060511
         },
         "color": "green"
     },
@@ -3904,8 +3887,8 @@
         "death_year": "1753",
         "death_place": {
             "name": "Malden, Middlesex, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.4268484,
+            "lon": -71.0683741
         },
         "color": "green"
     },
@@ -3921,8 +3904,8 @@
         "death_year": "1787",
         "death_place": {
             "name": "Reading, Middlesex, Massachusetts",
-            "lat": null,
-            "lon": null
+            "lat": 42.5260297,
+            "lon": -71.1020262
         },
         "color": "green"
     },
@@ -3932,14 +3915,14 @@
         "birth_year": "1688",
         "birth_place": {
             "name": "Southampton, Long Island, New York, American Colonies",
-            "lat": null,
-            "lon": null
+            "lat": 40.85216573035784, 
+            "lon": -72.58354321699893
         },
         "death_year": "1767",
         "death_place": {
             "name": "Long Island, New York, American Colonies",
-            "lat": null,
-            "lon": null
+            "lat": 40.85216573035784, 
+            "lon": -72.58354321699893
         },
         "color": "purple"
     },
@@ -3949,14 +3932,14 @@
         "birth_year": "1670",
         "birth_place": {
             "name": "Hartford, Hartford County, Connecticut, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 41.770911308988055, 
+            "lon": -72.67134229252225
         },
         "death_year": "1725",
         "death_place": {
             "name": "Enfield, Hartford, Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.78739967221436,
+            "lon": -72.68356510065158
         },
         "color": "purple"
     },
@@ -3972,8 +3955,8 @@
         "death_year": "1766",
         "death_place": {
             "name": "New Haven, New Haven, Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.2976052,
+            "lon": -72.92654366037542
         },
         "color": "gray"
     },
@@ -3989,8 +3972,8 @@
         "death_year": "1673",
         "death_place": {
             "name": "Roxbury, Suffolk, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.3248426,
+            "lon": -71.0950158
         },
         "color": "purple"
     },
@@ -4006,8 +3989,8 @@
         "death_year": "1753",
         "death_place": {
             "name": "Long Island City, Queens, New York, United States",
-            "lat": null,
-            "lon": null
+            "lat": 40.7455316,
+            "lon": -73.9484995
         },
         "color": "purple"
     },
@@ -4017,14 +4000,14 @@
         "birth_year": "1600",
         "birth_place": {
             "name": "Great Thornham, Suffolk, , England",
-            "lat": null,
-            "lon": null
+            "lat": 52.30025113717612, 
+            "lon": 1.0784256656577562
         },
         "death_year": "1668",
         "death_place": {
             "name": "Suffolk, Suffolk, England, United Kingdom",
-            "lat": null,
-            "lon": null
+            "lat": 52.23476185,
+            "lon": 1.0451342631685334
         },
         "color": "blue"
     },
@@ -4034,14 +4017,14 @@
         "birth_year": "1652",
         "birth_place": {
             "name": "Southampton, Suffolk, British Colonial America, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.885601200853834, 
+            "lon": -72.40480031710456
         },
         "death_year": "1701",
         "death_place": {
             "name": "Southampton, Suffolk, British Colonial America, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.885601200853834, 
+            "lon": -72.40480031710456
         },
         "color": "purple"
     },
@@ -4051,14 +4034,14 @@
         "birth_year": "1615",
         "birth_place": {
             "name": "Olney, Bucks, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.15979152536285, 
+            "lon": -0.7086021065568642
         },
         "death_year": "1680",
         "death_place": {
             "name": "Southampton, Long Island, NY, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.885601200853834, 
+            "lon": -72.40480031710456
         },
         "color": "purple"
     },
@@ -4074,8 +4057,8 @@
         "death_year": "1699",
         "death_place": {
             "name": "Weymouth, Norfolk, Massachusetts, United States",
-            "lat": null,
-            "lon": null
+            "lat": 42.2212188,
+            "lon": -70.9391625
         },
         "color": "purple"
     },
@@ -4091,8 +4074,8 @@
         "death_year": "1672",
         "death_place": {
             "name": "Hartford, Hartford, Connecticut, United States",
-            "lat": null,
-            "lon": null
+            "lat": 41.764582,
+            "lon": -72.6908547
         },
         "color": "purple"
     },
@@ -4108,8 +4091,8 @@
         "death_year": "1685",
         "death_place": {
             "name": "Dedham, Norfolk, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.2489143,
+            "lon": -71.1755732
         },
         "color": "purple"
     },
@@ -4125,8 +4108,8 @@
         "death_year": "1745/6",
         "death_place": {
             "name": "Canterbury, Windham, Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.72112367645136,
+            "lon": -71.96996326570036
         },
         "color": "purple"
     },
@@ -4153,14 +4136,14 @@
         "birth_year": "1620",
         "birth_place": {
             "name": "St David, Langport District, Somerset, England, United Kingdom",
-            "lat": null,
-            "lon": null
+            "lat": 51.03693116915376, 
+            "lon": -2.829750308580147
         },
         "death_year": "1661",
         "death_place": {
             "name": "Ipswich, Essex, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.679273,
+            "lon": -70.8411583
         },
         "color": "purple"
     },
@@ -4193,8 +4176,8 @@
         "death_year": "1671",
         "death_place": {
             "name": "Plymouth, Plymouth, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.9583799,
+            "lon": -70.6673851
         },
         "color": "purple"
     },
@@ -4210,8 +4193,8 @@
         "death_year": "1657",
         "death_place": {
             "name": "Plymouth, Plymouth, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.9583799,
+            "lon": -70.6673851
         },
         "color": "blue"
     },
@@ -4227,8 +4210,8 @@
         "death_year": "1649",
         "death_place": {
             "name": "Weymouth, Norfolk, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.2212188,
+            "lon": -70.9391625
         },
         "color": "blue"
     },
@@ -4237,15 +4220,15 @@
         "last_name": "Bradford",
         "birth_year": "1559",
         "birth_place": {
-            "name": "England",
-            "lat": 52.5310214,
-            "lon": -1.2649062
+            "name": "Austerfield, Yorkshire, England ",
+            "lat": 3.44241741072331, 
+            "lon": -1.007293708734071
         },
-        "death_year": "Unknown",
+        "death_year": "1591",
         "death_place": {
-            "name": "Unknown",
-            "lat": null,
-            "lon": null
+            "name": "Austerfield, Yorkshire, England ",
+            "lat": 53.44241741072331, 
+            "lon": -1.007293708734071
         },
         "color": "blue"
     },
@@ -4255,14 +4238,14 @@
         "birth_year": "1843",
         "birth_place": {
             "name": " Village of (City of) Syracuse, Onondaga County, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 43.03910325332556, 
+            "lon": -76.16030710385081
         },
         "death_year": "1902",
         "death_place": {
             "name": "City of Chicago, Cook County, Illinois, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.8876395,
+            "lon": -87.61585357982527
         },
         "color": "orange"
     },
@@ -4289,14 +4272,14 @@
         "birth_year": "1604",
         "birth_place": {
             "name": "Broad Clist, Devonshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 50.76295107915133, 
+            "lon": -3.4388672333779597
         },
         "death_year": "1660",
         "death_place": {
             "name": "Long Island City, Queens, New York City, New York",
-            "lat": null,
-            "lon": null
+            "lat": 40.7455316,
+            "lon": -73.9484995
         },
         "color": "purple"
     },
@@ -4312,8 +4295,8 @@
         "death_year": "1697",
         "death_place": {
             "name": "Southampton, Suffolk Co., New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.884267,
+            "lon": -72.3895296
         },
         "color": "purple"
     },
@@ -4363,8 +4346,8 @@
         "death_year": "1756",
         "death_place": {
             "name": "East Hampton, Suffolk, New York, USA",
-            "lat": null,
-            "lon": null
+            "lat": 40.9633868,
+            "lon": -72.1847598
         },
         "color": "purple"
     },
@@ -4414,8 +4397,8 @@
         "death_year": "1826",
         "death_place": {
             "name": "Orange, North Carolina, United States",
-            "lat": null,
-            "lon": null
+            "lat": 36.0605095,
+            "lon": -79.1172679
         },
         "color": "green"
     },
@@ -4459,8 +4442,8 @@
         "birth_year": "1656",
         "birth_place": {
             "name": "Stratford, Fairfield, CT",
-            "lat": null,
-            "lon": null
+            "lat": 41.1845415,
+            "lon": -73.1331651
         },
         "death_year": "Unknown",
         "death_place": {
@@ -4516,8 +4499,8 @@
         "death_year": "1754",
         "death_place": {
             "name": "Colchester, New London County, Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.4743349797957,
+            "lon": -72.18801062101998
         },
         "color": "purple"
     },
@@ -4533,8 +4516,8 @@
         "death_year": "1589",
         "death_place": {
             "name": "London, London, London, England, United Kingdom",
-            "lat": null,
-            "lon": null
+            "lat": 51.55563345,
+            "lon": -0.16684593529047703
         },
         "color": "blue"
     },
@@ -4550,8 +4533,8 @@
         "death_year": "1597",
         "death_place": {
             "name": "Milton, Vale of White Horse District, Oxfordshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 51.6277301,
+            "lon": -1.2989879
         },
         "color": "blue"
     },
@@ -4567,8 +4550,8 @@
         "death_year": "1767",
         "death_place": {
             "name": "Farmington, Cecil, Maryland, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.6787216,
+            "lon": -76.0321698
         },
         "color": "green"
     },
@@ -4584,8 +4567,8 @@
         "death_year": "1762",
         "death_place": {
             "name": "West Nottingham, Chester, Pennsylvania, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.7468667,
+            "lon": -76.04383384376895
         },
         "color": "purple"
     },
@@ -4595,14 +4578,14 @@
         "birth_year": "1695",
         "birth_place": {
             "name": "Skelton Parish, Yorkshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 54.00135337482834, 
+            "lon": -1.1312052494051084
         },
         "death_year": "1736",
         "death_place": {
             "name": "Nottingham, Prince George's, Maryland, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.791802748853975,
+            "lon": -76.84153970682992
         },
         "color": "purple"
     },
@@ -4612,14 +4595,14 @@
         "birth_year": "1659",
         "birth_place": {
             "name": "lurgan, ardmagh, Ireland",
-            "lat": null,
-            "lon": null
+            "lat": 54.46363810873121, 
+            "lon": -6.331282558534782
         },
         "death_year": "1745",
         "death_place": {
             "name": "Centerville, New Castle County, Delaware, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 39.8216315,
+            "lon": -75.6165873
         },
         "color": "purple"
     },
@@ -4629,14 +4612,14 @@
         "birth_year": "1647",
         "birth_place": {
             "name": "Shelpot Creek, New Castle, Delaware, United States",
-            "lat": null,
-            "lon": null
+            "lat": 39.772827398531106, 
+            "lon": -75.51823697238436,
         },
-        "death_year": "101?",
+        "death_year": "Unknown",
         "death_place": {
             "name": "Delaware, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.6920451,
+            "lon": -75.4013315
         },
         "color": "purple"
     },
@@ -4646,14 +4629,14 @@
         "birth_year": "1588",
         "birth_place": {
             "name": "Shadwell, London, Middlesex, England",
-            "lat": null,
-            "lon": null
+            "lat": 51.51289375615688, 
+            "lon": -0.05311576583970742
         },
         "death_year": "1666",
         "death_place": {
             "name": "England",
-            "lat": null,
-            "lon": null
+            "lat": 52.5310214,
+            "lon": -1.2649062
         },
         "color": "blue"
     },
@@ -4663,14 +4646,14 @@
         "birth_year": "1639",
         "birth_place": {
             "name": "Souldrop, Bedfordshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.245604285263916, 
+            "lon": -0.5597495641717857
         },
         "death_year": "1723",
         "death_place": {
             "name": "Westmoreland, Virginia",
-            "lat": null,
-            "lon": null
+            "lat": 38.1153203,
+            "lon": -76.7567355
         },
         "color": "purple"
     },
@@ -4686,8 +4669,8 @@
         "death_year": "1732",
         "death_place": {
             "name": "King George, Virginia, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.2786312,
+            "lon": -77.175356
         },
         "color": "purple"
     },
@@ -4720,8 +4703,8 @@
         "death_year": "1749",
         "death_place": {
             "name": "Caroline, Virginia, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.0320305,
+            "lon": -77.362363
         },
         "color": "green"
     },
@@ -4737,8 +4720,8 @@
         "death_year": "1741",
         "death_place": {
             "name": "Caroline, Virginia, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.0320305,
+            "lon": -77.362363
         },
         "color": "green"
     },
@@ -4754,8 +4737,8 @@
         "death_year": "1779",
         "death_place": {
             "name": "Powhatan, Virginia, USA",
-            "lat": null,
-            "lon": null
+            "lat": 37.5531622,
+            "lon": -77.9112655
         },
         "color": "green"
     },
@@ -4782,14 +4765,14 @@
         "birth_year": "1699",
         "birth_place": {
             "name": "Cople Parish, Westmoreland, Virginia, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.06307559397286, 
+            "lon": -76.5969440816205
         },
         "death_year": "1785",
         "death_place": {
             "name": "Westmoreland, Virginia, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.1153203,
+            "lon": -76.7567355
         },
         "color": "purple"
     },
@@ -4805,8 +4788,8 @@
         "death_year": "Unknown",
         "death_place": {
             "name": "Y, Somme, Picardie, France",
-            "lat": null,
-            "lon": null
+            "lat": 49.8031514,
+            "lon": 2.9906764
         },
         "color": "green"
     },
@@ -4822,8 +4805,8 @@
         "death_year": "1749",
         "death_place": {
             "name": "Prince William, Virginia, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.7389846,
+            "lon": -77.5536743
         },
         "color": "green"
     },
@@ -4839,8 +4822,8 @@
         "death_year": "1803-1805",
         "death_place": {
             "name": "Jefferson, Alexandria, Virginia, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.812763423245244, 
+            "lon": -77.08349898870927
         },
         "color": "green"
     },
@@ -4856,8 +4839,8 @@
         "death_year": "1855",
         "death_place": {
             "name": "Kentucky, Kentucky, USA",
-            "lat": null,
-            "lon": null
+            "lat": 36.66218905,
+            "lon": -88.30964344689863
         },
         "color": "green"
     },
@@ -4907,8 +4890,8 @@
         "death_year": "1846",
         "death_place": {
             "name": "Muses Mills, Fleming County, Kentucky, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 38.3500788,
+            "lon": -83.5271332
         },
         "color": "green"
     },
@@ -4924,8 +4907,8 @@
         "death_year": "1840",
         "death_place": {
             "name": "Elizabeth Twnshp, Allegheny Co., PA",
-            "lat": null,
-            "lon": null
+            "lat": 40.26492182253001, 
+            "lon": -79.82448701236544
         },
         "color": "green"
     },
@@ -4958,8 +4941,8 @@
         "death_year": "1910",
         "death_place": {
             "name": "Mt Carmel, Fleming, Kentucky, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.4845212,
+            "lon": -83.6365826
         },
         "color": "orange"
     },
@@ -5050,18 +5033,18 @@
     },
     {
         "first_name": "Rachel",
-        "last_name": "Bowen",
+        "last_name": "Bowne",
         "birth_year": "1744",
         "birth_place": {
             "name": "Fairfield, Cumberland, NJ",
-            "lat": null,
-            "lon": null
+            "lat": 39.36436020948509,
+            "lon": -75.27347629934955
         },
         "death_year": "1782",
         "death_place": {
             "name": "Fairfield, Cumberland, NJ",
-            "lat": null,
-            "lon": null
+            "lat": 39.36436020948509,
+            "lon": -75.27347629934955
         },
         "color": "green"
     },
@@ -5077,8 +5060,8 @@
         "death_year": "1823",
         "death_place": {
             "name": "Salem, Salem, New Jersey, United States",
-            "lat": null,
-            "lon": null
+            "lat": 39.5717796,
+            "lon": -75.4671423
         },
         "color": "green"
     },
@@ -5094,8 +5077,8 @@
         "death_year": "1785",
         "death_place": {
             "name": "Willistown, Chester, Pennsylvania, United States",
-            "lat": null,
-            "lon": null
+            "lat": 39.9612206,
+            "lon": -75.4960355
         },
         "color": "green"
     },
@@ -5156,8 +5139,8 @@
         "birth_year": "1754",
         "birth_place": {
             "name": "Fairfield, Cumberland, New Jersey, United States",
-            "lat": null,
-            "lon": null
+            "lat": 39.36436020948509,
+            "lon": -75.27347629934955
         },
         "death_year": "1779",
         "death_place": {
@@ -5179,8 +5162,8 @@
         "death_year": "1848",
         "death_place": {
             "name": "Greene, Trumbull, Ohio, United States",
-            "lat": null,
-            "lon": null
+            "lat": 41.4622053,
+            "lon": -80.7630634
         },
         "color": "green"
     },
@@ -5190,14 +5173,14 @@
         "birth_year": "1746",
         "birth_place": {
             "name": "Of Fairfield, Cumberland, NJ",
-            "lat": null,
-            "lon": null
+            "lat": 39.36436020948509,
+            "lon": -75.27347629934955
         },
         "death_year": "1819",
         "death_place": {
             "name": "Fairfield, , New Jersey, United States",
-            "lat": null,
-            "lon": null
+            "lat": 40.8837102,
+            "lon": -74.3059823
         },
         "color": "green"
     },
@@ -5207,14 +5190,14 @@
         "birth_year": "1752",
         "birth_place": {
             "name": "Fairfield, Cumberland, New Jersey, USA",
-            "lat": null,
-            "lon": null
+            "lat": 39.36436020948509,
+            "lon": -75.27347629934955
         },
         "death_year": "1786",
         "death_place": {
             "name": "Cumberland County, New Jersey",
-            "lat": null,
-            "lon": null
+            "lat": 39.3183341,
+            "lon": -75.1623239
         },
         "color": "green"
     },
@@ -5298,8 +5281,8 @@
         "death_year": "1658",
         "death_place": {
             "name": "Malden, Massachusetts",
-            "lat": null,
-            "lon": null
+            "lat": 42.4268484,
+            "lon": -71.0683741
         },
         "color": "purple"
     },
@@ -5326,14 +5309,14 @@
         "birth_year": "1606",
         "birth_place": {
             "name": "Woodthorpe, East Lindsey District, Lincolnshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 53.299302423796966, 
+            "lon": 0.16279504394468414
         },
         "death_year": "1642",
         "death_place": {
             "name": "Colsterworth, South Kesteven District, Lincolnshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.801827787011426, 
+            "lon": -0.6057606176962937
         },
         "color": "purple"
     },
@@ -5349,8 +5332,8 @@
         "death_year": "1727",
         "death_place": {
             "name": "Kensington, Middlesex, England",
-            "lat": null,
-            "lon": null
+            "lat": 51.50509531310011, 
+            "lon": -0.1990838152087068
         },
         "color": "purple"
     },
@@ -5360,14 +5343,14 @@
         "birth_year": "1575",
         "birth_place": {
             "name": "Woodthorpe, East Lindsey District, Lincolnshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 53.300584579394936, 
+            "lon": 0.16506991885483943
         },
         "death_year": "1641",
         "death_place": {
             "name": "Woolsthorpe-by-Colsterworth, Lincolnshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.8096267,
+            "lon": -0.6322203
         },
         "color": "blue"
     },
@@ -5383,8 +5366,8 @@
         "death_year": "1588",
         "death_place": {
             "name": "Colsterworth, South Kesteven District, Lincolnshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.796844320229695, 
+            "lon": -0.6006146420347312
         },
         "color": "blue"
     },
@@ -5400,8 +5383,8 @@
         "death_year": "1597",
         "death_place": {
             "name": "St John, Oxfordshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 51.99556375,
+            "lon": -1.3621020637195254
         },
         "color": "blue"
     },
@@ -5411,8 +5394,8 @@
         "birth_year": "1525",
         "birth_place": {
             "name": "Westby, Lancastershire, Lincolnshire, England",
-            "lat": null,
-            "lon": null
+            "lat": n52.84203923145945, 
+            "lon": -0.552322124374301
         },
         "death_year": "1562",
         "death_place": {
@@ -5451,8 +5434,8 @@
         "death_year": "1856",
         "death_place": {
             "name": "Jefferson, Indiana, United States ",
-            "lat": null,
-            "lon": null
+            "lat": 38.8166724,
+            "lon": -85.4299489
         },
         "color": "green"
     },
@@ -5502,8 +5485,8 @@
         "death_year": "1880",
         "death_place": {
             "name": "Madison, Jefferson, Indiana, United States ",
-            "lat": null,
-            "lon": null
+            "lat": 38.7358933,
+            "lon": -85.3799577
         },
         "color": "orange"
     },
@@ -5536,8 +5519,8 @@
         "death_year": "1928",
         "death_place": {
             "name": "Indianola, Vermilion, Illinois, United States",
-            "lat": null,
-            "lon": null
+            "lat": 39.927258,
+            "lon": -87.740025
         },
         "color": "orange"
     },
@@ -5553,8 +5536,8 @@
         "death_year": "1868",
         "death_place": {
             "name": "Madison, Jefferson, Indiana, United States",
-            "lat": null,
-            "lon": null
+            "lat": 38.7358933,
+            "lon": -85.3799577
         },
         "color": "orange"
     },
@@ -5587,8 +5570,8 @@
         "death_year": "1563",
         "death_place": {
             "name": "Westby, Lincolnshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.8435345,
+            "lon": -0.5574167
         },
         "color": "blue"
     },
@@ -5604,8 +5587,8 @@
         "death_year": "1911",
         "death_place": {
             "name": "Prince Edward County, Virginia",
-            "lat": null,
-            "lon": null
+            "lat": 37.2293293,
+            "lon": -78.4628573
         },
         "color": "orange"
     },
@@ -5615,14 +5598,14 @@
         "birth_year": "1550",
         "birth_place": {
             "name": "Gunby, Candleshoe, Linconshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.78256629215669, 
+            "lon": -0.6457918884289207
         },
         "death_year": "1601",
         "death_place": {
             "name": "Gunby, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.7844148,
+            "lon": -0.6497115
         },
         "color": "blue"
     },
@@ -5632,14 +5615,14 @@
         "birth_year": "1717",
         "birth_place": {
             "name": "North Crawley, Buckinghamshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.093243618826335, 
+            "lon": -0.6526634576424513
         },
         "death_year": "1783",
         "death_place": {
             "name": "North Crawley, Buckinghamshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.093243618826335, 
+            "lon": -0.6526634576424513
         },
         "color": "green"
     },
@@ -5655,8 +5638,8 @@
         "death_year": "1772",
         "death_place": {
             "name": "North Crawley, England, United Kingdom",
-            "lat": null,
-            "lon": null
+            "lat": 52.0939909,
+            "lon": -0.6510074
         },
         "color": "purple"
     },
@@ -5683,14 +5666,14 @@
         "birth_year": "1580",
         "birth_place": {
             "name": "Harrow-On-Hill (Middlesex) England",
-            "lat": null,
-            "lon": null
+            "lat": 51.57256353237507, 
+            "lon": -0.3398833549848967
         },
         "death_year": "1634",
         "death_place": {
             "name": "Sussex Square London (Middlesex)",
-            "lat": null,
-            "lon": null
+            "lat": 51.51354738908408, 
+            "lon": -0.17362036220815236
         },
         "color": "blue"
     },
@@ -5706,8 +5689,8 @@
         "death_year": "1719",
         "death_place": {
             "name": "Isle of Wight, Isle of Wight, Virginia, USA",
-            "lat": null,
-            "lon": null
+            "lat": 36.9076493,
+            "lon": -76.707735
         },
         "color": "purple"
     },
@@ -5757,27 +5740,10 @@
         "death_year": "1692",
         "death_place": {
             "name": "Roxbury, Suffolk, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.3248426,
+            "lon": -71.0950158
         },
         "color": "purple"
-    },
-    {
-        "first_name": "William Lewyn",
-        "last_name": "Lyon",
-        "birth_year": "1580",
-        "birth_place": {
-            "name": "Harrow-On-Hill (Middlesex) England (of Heston)",
-            "lat": null,
-            "lon": null
-        },
-        "death_year": "1634",
-        "death_place": {
-            "name": "Sussex Square, London, Middlesex, England",
-            "lat": null,
-            "lon": null
-        },
-        "color": "blue"
     },
     {
         "first_name": "Rufus",
@@ -5842,8 +5808,8 @@
         "death_year": "1661",
         "death_place": {
             "name": "Dorchester, Suffolk, Massachusetts",
-            "lat": null,
-            "lon": null
+            "lat": 42.301376000000005,
+            "lon": -71.06127441375656
         },
         "color": "purple"
     },
@@ -5853,14 +5819,14 @@
         "birth_year": "1599",
         "birth_place": {
             "name": "Barton St David, South Somerset District, Somerset, England",
-            "lat": null,
-            "lon": null
+            "lat": 51.08532892765207, 
+            "lon": -2.6562176131605457
         },
         "death_year": "1678",
         "death_place": {
             "name": "Roxbury, Suffolk, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.3248426,
+            "lon": -71.0950158
         },
         "color": "blue"
     },
@@ -5870,14 +5836,14 @@
         "birth_year": "1635",
         "birth_place": {
             "name": "Skelton-in-Cleveland, Yorkshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 54.5616071462662, 
+            "lon": -0.9848316954769744
         },
         "death_year": "1698",
         "death_place": {
             "name": "Lurgan, Armagh, Northern Ireland, United Kingdom",
-            "lat": null,
-            "lon": null
+            "lat": 54.460824,
+            "lon": -6.3292491
         },
         "color": "purple"
     },
@@ -5893,8 +5859,8 @@
         "death_year": "1635",
         "death_place": {
             "name": "Shropshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.65233935,
+            "lon": -2.64356407027027
         },
         "color": "blue"
     },
@@ -5904,14 +5870,14 @@
         "birth_year": "1535",
         "birth_place": {
             "name": "St Dunstan and All Saints, Middlesex, England",
-            "lat": null,
-            "lon": null
+            "lat": 51.51691870604072, 
+            "lon": -0.04185711781593815
         },
         "death_year": "1579",
         "death_place": {
             "name": "England",
-            "lat": null,
-            "lon": null
+            "lat": 52.5310214,
+            "lon": -1.2649062
         },
         "color": "blue"
     },
@@ -5927,8 +5893,8 @@
         "death_year": "1583",
         "death_place": {
             "name": "Kingston, Isle of Wight, Hampshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 50.63240957824043, 
+            "lon": -1.3287943183037614
         },
         "color": "blue"
     },
@@ -5944,8 +5910,8 @@
         "death_year": "1675",
         "death_place": {
             "name": "Westmoreland, Virginia, USA",
-            "lat": null,
-            "lon": null
+            "lat": 38.1153203,
+            "lon": -76.7567355
         },
         "color": "purple"
     },
@@ -5961,8 +5927,8 @@
         "death_year": "1583",
         "death_place": {
             "name": "Kingston, Isle of Wight, Hampshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 50.63273627312612, 
+            "lon": -1.3290516884928902
         },
         "color": "blue"
     },
@@ -5972,14 +5938,14 @@
         "birth_year": "1626",
         "birth_place": {
             "name": "Souldrop, Bedfordshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.245604285263916, 
+            "lon": -0.5597495641717857
         },
         "death_year": "Unknown",
         "death_place": {
             "name": "Souldrop, Bedfordshire, England",
-            "lat": null,
-            "lon": null
+            "lat": 52.245604285263916, 
+            "lon": -0.5597495641717857
         },
         "color": "purple"
     },
@@ -5995,8 +5961,8 @@
         "death_year": "1550",
         "death_place": {
             "name": "Aberdeenshire, Scotland",
-            "lat": null,
-            "lon": null
+            "lat": 57.166667,
+            "lon": -2.666667
         },
         "color": "blue"
     },
@@ -6012,8 +5978,8 @@
         "death_year": "1704",
         "death_place": {
             "name": "Northampton, Hampshire, Massachusetts, United States",
-            "lat": null,
-            "lon": null
+            "lat": 42.3178989,
+            "lon": -72.6311006
         },
         "color": "purple"
     },
@@ -6023,31 +5989,31 @@
         "birth_year": "1475",
         "birth_place": {
             "name": "Lochinvar, Kirkcudbright, Galloway, Scotland",
-            "lat": null,
-            "lon": null
+            "lat": 54.844410732382656, 
+            "lon": -4.04069588952995
         },
         "death_year": "1513",
         "death_place": {
             "name": "Slag Bij Flodden Field, Kirknewton, Northumberland, ENGLAND",
-            "lat": null,
-            "lon": null
+            "lat": 55.63006756379117,
+            "lon": -2.1709489223219722
         },
         "color": "blue"
     },
     {
-        "first_name": "William (9th GGF)",
+        "first_name": "William",
         "last_name": "Allen",
         "birth_year": "1590",
         "birth_place": {
             "name": "Goldington, Bedfordshire, England, United Kingdom",
-            "lat": null,
-            "lon": null
+            "lat": 52.14442694388407, 
+            "lon": -0.4319123376236182
         },
         "death_year": "1621",
         "death_place": {
             "name": "Charles City County, Virginia Colony",
-            "lat": null,
-            "lon": null
+            "lat": 37.40065359374855, 
+            "lon": -77.15005515949196
         },
         "color": "blue"
     },
@@ -6063,8 +6029,8 @@
         "death_year": "1669",
         "death_place": {
             "name": "Little Leigh, Chester, England",
-            "lat": null,
-            "lon": null
+            "lat": 53.285134,
+            "lon": -2.5770819406444243
         },
         "color": "blue"
     },
@@ -6080,8 +6046,8 @@
         "death_year": "1613",
         "death_place": {
             "name": "Selling, Kent, England",
-            "lat": null,
-            "lon": null
+            "lat": 51.2716258,
+            "lon": 0.9172133
         },
         "color": "blue"
     },
@@ -6091,14 +6057,14 @@
         "birth_year": "1593",
         "birth_place": {
             "name": "Shipright, Middlesex, England",
-            "lat": null,
-            "lon": null
+            "lat": 51.528493303460934, 
+            "lon": -0.00430230973582787
         },
         "death_year": "1660",
         "death_place": {
             "name": "Milton, Norfolk, Massachusetts, USA",
-            "lat": null,
-            "lon": null
+            "lat": 42.2501425,
+            "lon": -71.065573
         },
         "color": "blue"
     },
@@ -6114,8 +6080,8 @@
         "death_year": "1929",
         "death_place": {
             "name": "Cape Fear, Lee, North Carolina",
-            "lat": null,
-            "lon": null
+            "lat": 35.58814799897784,
+            "lon": -79.05734237268183
         },
         "color": "orange"
     },
@@ -6141,11 +6107,11 @@
         "last_name": "Weber",
         "birth_year": "1880",
         "birth_place": {
-            "name": "Unknown",
-            "lat": null,
-            "lon": null
+            "name": "Coeymans",
+            "lat": 2.4739705,
+            "lon": -73.7923456
         },
-        "death_year": "1892",
+        "death_year": "Unknown",
         "death_place": {
             "name": "Unknown",
             "lat": null,
@@ -6159,14 +6125,14 @@
         "birth_year": "1763",
         "birth_place": {
             "name": "Village of Norwich, New London County, Connecticut, British Colonies of America",
-            "lat": null,
-            "lon": null
+            "lat": 41.53811715,
+            "lon": -72.08038405156037
         },
         "death_year": "1834",
         "death_place": {
             "name": "New York, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 40.7127281,
+            "lon": -74.0060152
         },
         "color": "green"
     },
@@ -6176,14 +6142,14 @@
         "birth_year": "1768",
         "birth_place": {
             "name": "Village of Bozrah, New London County, Connecticut, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 41.5505962,
+            "lon": -72.168238
         },
         "death_year": "1848",
         "death_place": {
             "name": "Village of Bozrah, New London County, Connecticut, United States of America",
-            "lat": null,
-            "lon": null
+            "lat": 41.5505962,
+            "lon": -72.168238
         },
         "color": "green"
     },
@@ -6193,8 +6159,8 @@
         "birth_year": "1756",
         "birth_place": {
             "name": "Norwich, New London Co., Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.53811715,
+            "lon": -72.08038405156037
         },
         "death_year": "Unknown",
         "death_place": {
@@ -6210,14 +6176,14 @@
         "birth_year": "1771",
         "birth_place": {
             "name": "Norwich, New London Co., Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.53811715,
+            "lon": -72.08038405156037
         },
         "death_year": "1849",
         "death_place": {
             "name": "Wentworth, Ontario, Canada",
-            "lat": null,
-            "lon": null
+            "lat": 44.283559749999995,
+            "lon": -78.34654479933678
         },
         "color": "green"
     },
@@ -6227,8 +6193,8 @@
         "birth_year": "1759",
         "birth_place": {
             "name": "Norwich, New London Co., Connecticut, USA",
-            "lat": null,
-            "lon": null
+            "lat": 41.53811715,
+            "lon": -72.08038405156037
         },
         "death_year": "Unknown",
         "death_place": {
@@ -6250,8 +6216,8 @@
         "death_year": "1803",
         "death_place": {
             "name": "Stratford, Connecticut",
-            "lat": null,
-            "lon": null
+            "lat": 41.1845415,
+            "lon": -73.1331651
         },
         "color": "green"
     },
@@ -6301,8 +6267,8 @@
         "death_year": "1761",
         "death_place": {
             "name": "Bozrah, New London, Connecticut, United States",
-            "lat": null,
-            "lon": null
+            "lat": 41.5505962,
+            "lon": -72.168238
         },
         "color": "green"
     },
@@ -6335,8 +6301,8 @@
         "death_year": "1792",
         "death_place": {
             "name": "Great Barrington, Berkshire, Massachusetts, United States",
-            "lat": null,
-            "lon": null
+            "lat": 42.1939364,
+            "lon": -73.362773
         },
         "color": "green"
     },
