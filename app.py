@@ -1,77 +1,138 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Genealogy Map</title>
-    <style>
-        html, body {
-            margin: 0;
-            padding: 0;
-            height: 100%;        /* Full viewport height */
-            font-family: 'Segoe UI', Arial, sans-serif;
-            background-color: #f4f6f8;
-            color: #333;
-            overflow: hidden;    /* No page scrolling */
-        }
-        body {
-            display: flex;
-            flex-direction: column; /* Stack vertically */
-            height: 100vh;          /* Exact viewport height */
-        }
-        #title {
-            text-align: center;
-            margin: 10px 0;
-            font-size: 24px;
-            font-weight: 600;
-            color: #2c3e50;
-            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
-            flex: 0 0 auto;         /* Fixed height */
-        }
-        #map {
-            width: 100%;
-            height: calc(100vh - 60px - 40px); /* 100vh minus title and buttons */
-            border: 1px solid #ddd;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            flex: 0 0 auto;         /* Fixed height, no grow */
-        }
-        #button-container {
-            text-align: center;
-            padding: 10px 0;
-            background-color: #ffffff;
-            border-top: 1px solid #ddd;
-            box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.05);
-            flex: 0 0 auto;         /* Fixed height */
-            width: 100%;
-            z-index: 1000;
-        }
-        button {
-            margin: 0 15px;
-            padding: 8px 20px;
-            font-size: 14px;
-            font-weight: 500;
-            color: #fff;
-            background-color: #3498db;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s ease, transform 0.1s ease;
-        }
-        button:hover {
-            background-color: #2980b9;
-            transform: translateY(-1px);
-        }
-        button:active {
-            background-color: #1f6a9a;
-            transform: translateY(0);
-        }
-    </style>
-    {{ map_html|safe }}
-</head>
-<body>
-    <h3 id="title">Newton & Stevens Migrations (1500-Present)</h3>
-    <div id="map"></div>
-    <div id="button-container">
-        <button onclick="window.location.href='/newton'">Newton Data</button>
-        <button onclick="window.location.href='/stevens'">Stevens Data</button>
-    </div>
-</body>
-</html>
+# genealogy_map.py
+from flask import Flask, render_template
+import folium
+from folium.plugins import MarkerCluster
+import json
+import os
+
+app = Flask(__name__)
+
+# Available datasets
+DATASETS = {
+    "newton": "newton_data.json",
+    "stevens": "stevens_data.json"
+}
+
+def load_data(dataset_name):
+    """Load the specified dataset or return empty list if not found."""
+    filename = DATASETS.get(dataset_name, "newton_data.json")  # Default
+    try:
+        with open(filename, "r") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        print(f"Warning: {filename} not found")
+        return []
+
+@app.route('/')
+@app.route('/<dataset>')
+def index(dataset="newton"):
+    # Load the selected dataset
+    genealogy_data = load_data(dataset)
+    
+    # Initialize map
+    m = folium.Map(location=[40, -40], zoom_start=4)
+    marker_cluster = MarkerCluster(
+        max_cluster_radius=40,
+        disable_clustering_at_zoom=8,  # Stop clustering at zoom 6 (individual markers from 6+)
+        spiderfy_on_max_zoom=False,    # No spiderfying at max zoom
+        spiderfy_distance_multiplier=1.5
+    ).add_to(m)
+
+    # Group people by coordinates for popups and track offsets
+    coord_groups = {}  # (lat, lon) -> {"color": str, "people": list, "offset_count": int}
+
+    # First pass: Collect all people at each coordinate
+    for person in genealogy_data:
+        birth_place = person["birth_place"]
+        death_place = person["death_place"]
+        full_name = f"{person['first_name']} {person['last_name']}".strip()
+        birth_year = person["birth_year"] if person["birth_year"] != "Unknown" else "?"
+        death_year = person["death_year"] if person["death_year"] != "Unknown" else "?"
+
+        same_place = (birth_place["lat"] and death_place["lat"] and
+                      birth_place["lon"] and death_place["lon"] and
+                      birth_place["lat"] == death_place["lat"] and
+                      birth_place["lon"] == death_place["lon"])
+
+        # Birth entry
+        if birth_place["lat"] and birth_place["lon"]:
+            coords = (birth_place["lat"], birth_place["lon"])
+            if coords not in coord_groups:
+                coord_groups[coords] = {"color": person["color"], "people": [], "offset_count": 0}
+            entry = f"{full_name} ({birth_year}" + (f"-{death_year}" if same_place else "") + ")"
+            if entry not in coord_groups[coords]["people"]:
+                coord_groups[coords]["people"].append(entry)
+
+        # Death entry if different
+        if death_place["lat"] and death_place["lon"] and not same_place:
+            coords = (death_place["lat"], death_place["lon"])
+            if coords not in coord_groups:
+                coord_groups[coords] = {"color": person["color"], "people": [], "offset_count": 0}
+            entry = f"{full_name} (d.{death_year})"
+            if entry not in coord_groups[coords]["people"]:
+                coord_groups[coords]["people"].append(entry)
+
+    # Second pass: Plot markers with offsets and lines
+    for person in genealogy_data:
+        birth_place = person["birth_place"]
+        death_place = person["death_place"]
+        full_name = f"{person['first_name']} {person['last_name']}".strip()
+        birth_year = person["birth_year"] if person["birth_year"] != "Unknown" else "?"
+        death_year = person["death_year"] if person["death_year"] != "Unknown" else "?"
+
+        same_place = (birth_place["lat"] and death_place["lat"] and
+                      birth_place["lon"] and death_place["lon"] and
+                      birth_place["lat"] == death_place["lat"] and
+                      birth_place["lon"] == death_place["lon"])
+
+        # Birth marker with offset
+        if birth_place["lat"] and birth_place["lon"]:
+            birth_coords = (birth_place["lat"], birth_place["lon"])
+            group = coord_groups[birth_coords]
+            offset_count = group["offset_count"]
+            birth_lat = birth_place["lat"] + (offset_count * 0.001)
+            birth_lon = birth_place["lon"] + (offset_count * 0.001)
+            group["offset_count"] += 1
+
+            popup_text = "<br>".join(group["people"])
+            folium.CircleMarker(
+                location=[birth_lat, birth_lon],
+                radius=5,
+                color=group["color"],
+                fill=True,
+                fill_color=group["color"],
+                popup=folium.Popup(popup_text, max_width=300)
+            ).add_to(marker_cluster)
+
+        # Death marker with offset if different
+        if death_place["lat"] and death_place["lon"] and not same_place:
+            death_coords = (death_place["lat"], death_place["lon"])
+            group = coord_groups[death_coords]
+            offset_count = group["offset_count"]
+            death_lat = death_place["lat"] + (offset_count * 0.001)
+            death_lon = death_place["lon"] + (offset_count * 0.001)
+            group["offset_count"] += 1
+
+            popup_text = "<br>".join(group["people"])
+            folium.CircleMarker(
+                location=[death_lat, death_lon],
+                radius=5,
+                color=group["color"],
+                fill=True,
+                fill_color=group["color"],
+                popup=folium.Popup(popup_text, max_width=300)
+            ).add_to(marker_cluster)
+
+            # Connect with thinner, paler, dotted line
+            folium.PolyLine(
+                locations=[
+                    [birth_lat, birth_lon],
+                    [death_lat, death_lon]
+                ],
+                color=person["color"],
+                weight=0.5,        # Thinner line
+                opacity=0.5,       # Paler line
+                dash_array="5, 5"  # Dotted
+            ).add_to(m)
+
+    return render_template('index.html', map_html=m._repr_html_())
