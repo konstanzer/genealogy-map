@@ -10,15 +10,16 @@
             font-family: 'Segoe UI', Arial, sans-serif;
             background-color: #f4f6f8;
             color: #333;
+            overflow: hidden;    /* No page scrolling */
         }
         body {
             display: flex;
             flex-direction: column; /* Stack vertically */
-            min-height: 100vh;      /* Fill viewport */
+            height: 100vh;          /* Exact viewport height */
         }
         #title {
             text-align: center;
-            margin: 10px 0;         /* Reduced margin for fit */
+            margin: 10px 0;
             font-size: 24px;
             font-weight: 600;
             color: #2c3e50;
@@ -27,11 +28,10 @@
         }
         #map {
             width: 100%;
-            flex: 1 1 auto;         /* Grow to fill remaining space */
-            min-height: 0;          /* Allow shrinking if needed */
+            height: calc(100vh - 60px - 40px); /* 100vh minus title and buttons */
             border: 1px solid #ddd;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            overflow: auto;         /* Scroll map content if needed */
+            flex: 0 0 auto;         /* Fixed height, no grow */
         }
         #button-container {
             text-align: center;
