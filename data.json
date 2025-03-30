@@ -952,23 +952,6 @@
         "color": "red"
     },
     {
-        "first_name": "John W",
-        "last_name": "Brandon",
-        "birth_year": "1844",
-        "birth_place": {
-            "name": "Shelby Township, Jefferson, Indiana, USA",
-            "lat": 38.878611,
-            "lon": -85.276111
-        },
-        "death_year": "1927",
-        "death_place": {
-            "name": "Ramsey County, Minnesota, USA",
-            "lat": 45.0165728,
-            "lon": -93.0949501
-        },
-        "color": "orange"
-    },
-    {
         "first_name": "Patrick Weber",
         "last_name": "Newton",
         "birth_year": "1982",
