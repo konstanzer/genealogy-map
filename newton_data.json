@@ -6171,57 +6171,6 @@
         "color": "orange"
     },
     {
-        "first_name": "Mary Eleanor \"Mollie\"",
-        "last_name": "Smith",
-        "birth_year": "1872",
-        "birth_place": {
-            "name": "North Carolina, USA",
-            "lat": 35.6729639,
-            "lon": -79.0392919
-        },
-        "death_year": "1928",
-        "death_place": {
-            "name": "Richmond,  Virginia",
-            "lat": 37.5385087,
-            "lon": -77.43428
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "Eaton Carl",
-        "last_name": "Smith",
-        "birth_year": "1837",
-        "birth_place": {
-            "name": "Northampton County, North Carolina, USA",
-            "lat": 36.4168078,
-            "lon": -77.3642227
-        },
-        "death_year": "1880",
-        "death_place": {
-            "name": "NorthamptonCo., North Carolina",
-            "lat": null,
-            "lon": null
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "Mary  Adeline",
-        "last_name": "Smith",
-        "birth_year": "1846",
-        "birth_place": {
-            "name": "Buncombe County, North Carolina, USA",
-            "lat": 35.6292222,
-            "lon": -82.5255603
-        },
-        "death_year": "1920",
-        "death_place": {
-            "name": "Buncombe County, North Carolina, USA",
-            "lat": 35.6292222,
-            "lon": -82.5255603
-        },
-        "color": "orange"
-    },
-    {
         "first_name": "Grace E.",
         "last_name": "Smith",
         "birth_year": "1918",
