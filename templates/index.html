@@ -6,28 +6,32 @@
         html, body {
             margin: 0;
             padding: 0;
+            height: 100%;        /* Full viewport */
             font-family: 'Segoe UI', Arial, sans-serif;
             background-color: #f4f6f8;
             color: #333;
+            overflow: hidden;    /* No scrolling */
         }
         body {
             display: flex;
             flex-direction: column;
-            min-height: 100vh; /* Allow scrolling if content exceeds viewport */
+            height: 100vh;       /* Exact viewport height */
         }
         #title {
             text-align: center;
-            margin: 15px 0;
+            margin: 10px 0;
             font-size: 24px;
             font-weight: 600;
             color: #2c3e50;
             text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+            flex: 0 0 auto;
         }
         #map {
             width: 100%;
-            height: 80vh; /* Fixed height, scroll page if needed */
+            height: calc(100vh - 60px - 40px); /* Fit within 100vh minus title and buttons */
             border: 1px solid #ddd;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            flex: 0 0 auto;
         }
         #button-container {
             text-align: center;
@@ -35,6 +39,7 @@
             background-color: #ffffff;
             border-top: 1px solid #ddd;
             box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.05);
+            flex: 0 0 auto;
             width: 100%;
             z-index: 1000;
         }
