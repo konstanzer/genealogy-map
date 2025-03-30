@@ -70,19 +70,16 @@ def index():
                     popup=folium.Popup(f"{full_name} ({death_year})", max_width=200)
                 ).add_to(marker_cluster)
 
-            # Connect with thinner, paler, curved line if different coordinates
-            if (birth_place["lat"] and birth_place["lon"] and 
-                death_place["lat"] and death_place["lon"]):
-                BezierCurve(
-                    locations=[
-                        [birth_place["lat"], birth_place["lon"], 0],  # Start point
-                        [death_place["lat"], death_place["lon"], 0]   # End point
-                    ],
-                    control_points_scale=0.3,  # Controls curve height (0.1-0.5 range)
-                    color=person["color"],
-                    weight=.5,                  # Thinner line
-                    opacity=0.3,               # Paler (semi-transparent)
-                    dash_array="5, 5"          # Keep dotted
-                ).add_to(m)
+            # Connect with thinner, paler, dotted line (straight)
+            folium.PolyLine(
+                locations=[
+                    [birth_lat, birth_lon],
+                    [death_lat, death_lon]
+                ],
+                color=person["color"],
+                weight=0.6,          # Thinner
+                opacity=0.4,       # Paler
+                dash_array="5, 5"  # Dotted
+            ).add_to(m)
 
     return render_template('index.html', map_html=m._repr_html_())
