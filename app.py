@@ -1,7 +1,7 @@
 # genealogy_map.py
 from flask import Flask, render_template
 import folium
-from folium.plugins import MarkerCluster
+from folium.plugins import MarkerCluster, BezierCurve
 import json
 import os
 
