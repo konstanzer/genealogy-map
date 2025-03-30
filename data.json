@@ -136,23 +136,6 @@
         "color": "orange"
     },
     {
-        "first_name": "Lynnie Newell",
-        "last_name": "Kelly",
-        "birth_year": "1897",
-        "birth_place": {
-            "name": "North Carolina",
-            "lat": 35.6729639,
-            "lon": -79.0392919
-        },
-        "death_year": "1981",
-        "death_place": {
-            "name": "Sanford, Lee, North Carolina, United States of America",
-            "lat": 35.4798757,
-            "lon": -79.1802994
-        },
-        "color": "orange"
-    },
-    {
         "first_name": "Anna Matilda",
         "last_name": "Parsons",
         "birth_year": "1854",
@@ -727,57 +710,6 @@
             "name": "Unknown",
             "lat": null,
             "lon": null
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "John Jordan",
-        "last_name": "Kelly",
-        "birth_year": "1874",
-        "birth_place": {
-            "name": "Moore County, North Carolina, USA",
-            "lat": 35.3054614,
-            "lon": -79.4761236
-        },
-        "death_year": "1956",
-        "death_place": {
-            "name": "Broadway, Lee, North Carolina, USA",
-            "lat": 35.4579333,
-            "lon": -79.0530768
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "CPT. James Oscar Abner",
-        "last_name": "Kelly",
-        "birth_year": "1833",
-        "birth_place": {
-            "name": "Chatham County, North Carolina, USA",
-            "lat": 35.7151316,
-            "lon": -79.2533035
-        },
-        "death_year": "1918",
-        "death_place": {
-            "name": "Cape Fear, Broadway, Lee, North Carolina, USA",
-            "lat": null,
-            "lon": null
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "Abner Baxter",
-        "last_name": "Kelly",
-        "birth_year": "1806",
-        "birth_place": {
-            "name": "Chatham, Moore County, North Carolina, USA",
-            "lat": 35.22319483032456,
-            "lon": -79.44199417666357
-        },
-        "death_year": "1885",
-        "death_place": {
-            "name": "Moore County, North Carolina, USA",
-            "lat": 35.3054614,
-            "lon": -79.4761236
         },
         "color": "orange"
     },
@@ -2601,23 +2533,6 @@
         "color": "orange"
     },
     {
-        "first_name": "Abner",
-        "last_name": "Kelly",
-        "birth_year": "1770",
-        "birth_place": {
-            "name": "ireland",
-            "lat": 52.865196,
-            "lon": -7.9794599
-        },
-        "death_year": "1821",
-        "death_place": {
-            "name": "Moore County, North Carolina, USA",
-            "lat": 35.3054614,
-            "lon": -79.4761236
-        },
-        "color": "green"
-    },
-    {
         "first_name": "Johann Adam 'Adam'",
         "last_name": "Weber",
         "birth_year": "1840",
@@ -4105,7 +4020,7 @@
             "lat": 41.9583799,
             "lon": -70.6673851
         },
-        "death_year": "1745/6",
+        "death_year": "1746",
         "death_place": {
             "name": "Canterbury, Windham, Connecticut, USA",
             "lat": 41.72112367645136,
@@ -4221,7 +4136,7 @@
         "birth_year": "1559",
         "birth_place": {
             "name": "Austerfield, Yorkshire, England ",
-            "lat": 3.44241741072331, 
+            "lat": 53.44241741072331, 
             "lon": -1.007293708734071
         },
         "death_year": "1591",
@@ -4384,23 +4299,6 @@
             "lon": -75.0020315130097
         },
         "color": "purple"
-    },
-    {
-        "first_name": "John",
-        "last_name": "Kelly",
-        "birth_year": "1756",
-        "birth_place": {
-            "name": "North Carolina",
-            "lat": 35.6729639,
-            "lon": -79.0392919
-        },
-        "death_year": "1826",
-        "death_place": {
-            "name": "Orange, North Carolina, United States",
-            "lat": 36.0605095,
-            "lon": -79.1172679
-        },
-        "color": "green"
     },
     {
         "first_name": "Joan",
@@ -6069,23 +5967,6 @@
         "color": "blue"
     },
     {
-        "first_name": "Anson T.",
-        "last_name": "Kelly",
-        "birth_year": "1857",
-        "birth_place": {
-            "name": ", Moore, N. C.",
-            "lat": 35.3054614,
-            "lon": -79.4761236
-        },
-        "death_year": "1929",
-        "death_place": {
-            "name": "Cape Fear, Lee, North Carolina",
-            "lat": 35.58814799897784,
-            "lon": -79.05734237268183
-        },
-        "color": "orange"
-    },
-    {
         "first_name": "Fannie",
         "last_name": "Brandon",
         "birth_year": "1894",
@@ -6108,7 +5989,7 @@
         "birth_year": "1880",
         "birth_place": {
             "name": "Coeymans",
-            "lat": 2.4739705,
+            "lat": 42.4739705,
             "lon": -73.7923456
         },
         "death_year": "Unknown",
