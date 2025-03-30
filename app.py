@@ -7,8 +7,12 @@ import os
 app = Flask(__name__)
 
 # Load data from JSON file
-with open("data.json", "r") as f:
-    genealogy_data = json.load(f)
+try:
+    with open("data.json", "r") as f:
+        genealogy_data = json.load(f)
+except FileNotFoundError:
+    genealogy_data = []
+    print("Warning: raw_genealogy_data.json not found")
 
 @app.route('/')
 def index():
