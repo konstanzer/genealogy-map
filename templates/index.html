@@ -6,32 +6,28 @@
         html, body {
             margin: 0;
             padding: 0;
-            height: 100%;        /* Full viewport height */
             font-family: 'Segoe UI', Arial, sans-serif;
             background-color: #f4f6f8;
             color: #333;
-            overflow: hidden;    /* No page scrolling */
         }
         body {
             display: flex;
-            flex-direction: column; /* Stack vertically */
-            height: 100vh;          /* Exact viewport height */
+            flex-direction: column;
+            min-height: 100vh; /* Allow scrolling if content exceeds viewport */
         }
         #title {
             text-align: center;
-            margin: 10px 0;
+            margin: 15px 0;
             font-size: 24px;
             font-weight: 600;
             color: #2c3e50;
             text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
-            flex: 0 0 auto;         /* Fixed height */
         }
         #map {
             width: 100%;
-            height: calc(100vh - 60px - 40px); /* 100vh minus title and buttons */
+            height: 80vh; /* Fixed height, scroll page if needed */
             border: 1px solid #ddd;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            flex: 0 0 auto;         /* Fixed height, no grow */
         }
         #button-container {
             text-align: center;
@@ -39,7 +35,6 @@
             background-color: #ffffff;
             border-top: 1px solid #ddd;
             box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.05);
-            flex: 0 0 auto;         /* Fixed height */
             width: 100%;
             z-index: 1000;
         }
