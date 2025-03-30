@@ -18,7 +18,7 @@ except FileNotFoundError:
 @app.route('/')
 def index():
     # Initialize map
-    m = folium.Map(location=[40, -38], zoom_start=4)
+    m = folium.Map(location=[40, -40], zoom_start=4)
     marker_cluster = MarkerCluster(max_cluster_radius=40,
                                    disable_clustering_at_zoom=7,
                                    spiderfy_on_max_zoom=False,
@@ -80,7 +80,7 @@ def index():
                     ],
                     color=person["color"],
                     weight=0.5,        # Thinner
-                    opacity=0.3,       # Paler
+                    opacity=0.5,       # Paler
                     dash_array="5, 5"  # Dotted
                 ).add_to(m)
 
