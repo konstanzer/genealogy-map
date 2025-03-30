@@ -10,5 +10,13 @@
 <body>
     <h3>Newton Genealogy and Migrations (1500-Present)</h3>
     <div id="map">{{ map_html|safe }}</div>
+    <div>
+    <!-- Button to switch datasets -->
+    {% if current_dataset == "newton" %}
+        <button onclick="window.location.href='/stevens'">Stevens Tree</button>
+    {% else %}
+        <button onclick="window.location.href='/newton'">Newton Tree</button>
+    {% endif %}
+</div>
 </body>
 </html>
