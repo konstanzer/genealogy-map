@@ -1,22 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
     <title>Genealogy Map</title>
-    <style>
-        #map { height: 600px; width: 100%; }
-    </style>
+    <h3>Newton Genealogy and Migrations (1500-Present)</h3>
+    {{ map_html|safe }}
 </head>
 <body>
-    <h3>Newton Genealogy and Migrations (1500-Present)</h3>
-    <div id="map">{{ map_html|safe }}</div>
+    <div id="map" style="width: 100%; height: 80vh;"></div>
     <div>
-    <!-- Button to switch datasets -->
-    {% if current_dataset == "newton" %}
-        <button onclick="window.location.href='/stevens'">Stevens Tree</button>
-    {% else %}
-        <button onclick="window.location.href='/newton'">Newton Tree</button>
-    {% endif %}
-</div>
+        <!-- Button to switch datasets -->
+        {% if current_dataset == "newton" %}
+            <button onclick="window.location.href='/stevens'">Stevens Data)</button>
+        {% else %}
+            <button onclick="window.location.href='/newton'">Newton Data</button>
+        {% endif %}
+    </div>
 </body>
 </html>
+
