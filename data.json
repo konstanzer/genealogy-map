@@ -79,8 +79,8 @@
         "death_year": "1979",
         "death_place": {
             "name": "New York, USA",
-            "lat": 40.7127281,
-            "lon": -74.0060152
+            "lat": 42.6511674,
+            "lon": -73.754968
         },
         "color": "orange"
     },
@@ -2091,23 +2091,6 @@
         "color": "blue"
     },
     {
-        "first_name": "Jasper",
-        "last_name": "Newton",
-        "birth_year": "1553",
-        "birth_place": {
-            "name": "Prestbury, Cheshire, England",
-            "lat": 53.30116695,
-            "lon": -2.1432981367015325
-        },
-        "death_year": "1589",
-        "death_place": {
-            "name": "London, London, England",
-            "lat": 51.4893335,
-            "lon": -0.14405508452768728
-        },
-        "color": "blue"
-    },
-    {
         "first_name": "Israel",
         "last_name": "Newton",
         "birth_year": "1581",
@@ -2747,7 +2730,7 @@
         },
         "death_year": "1871",
         "death_place": {
-            "name": "Annerod,,,,,",
+            "name": "Annerod",
             "lat": 50.5797162,
             "lon": 8.7521635
         },
@@ -2805,40 +2788,6 @@
         "color": "orange"
     },
     {
-        "first_name": "Christoph",
-        "last_name": "Constanz",
-        "birth_year": "1839",
-        "birth_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "death_year": "Unknown",
-        "death_place": {
-            "name": "Unknown",
-            "lat": null,
-            "lon": null
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "Elisabeth Margrethe",
-        "last_name": "Constanz",
-        "birth_year": "1828",
-        "birth_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "death_year": "1831",
-        "death_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "color": "orange"
-    },
-    {
         "first_name": "Henrich",
         "last_name": "Constanz",
         "birth_year": "1830",
@@ -2852,74 +2801,6 @@
             "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
             "lat": 50.6080778,
             "lon": 8.7868595
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "Christina",
-        "last_name": "Constanz",
-        "birth_year": "1844",
-        "birth_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "death_year": "1844",
-        "death_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "Maria",
-        "last_name": "Constanz",
-        "birth_year": "1874",
-        "birth_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "death_year": "1875",
-        "death_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "August Philipp",
-        "last_name": "Constanz",
-        "birth_year": "1871",
-        "birth_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "death_year": "1872",
-        "death_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "Heinrich",
-        "last_name": "Constanz",
-        "birth_year": "1873",
-        "birth_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "death_year": "Unknown",
-        "death_place": {
-            "name": "Unknown",
-            "lat": null,
-            "lon": null
         },
         "color": "orange"
     },
@@ -2958,23 +2839,6 @@
         "color": "orange"
     },
     {
-        "first_name": "Elisabetha",
-        "last_name": "Constanz",
-        "birth_year": "1869",
-        "birth_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "death_year": "1869",
-        "death_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "color": "orange"
-    },
-    {
         "first_name": "August Ludwig",
         "last_name": "Constanz",
         "birth_year": "1880",
@@ -3005,23 +2869,6 @@
             "name": "Gro\u00dfen-Buseck",
             "lat": 50.6080778,
             "lon": 8.7868595
-        },
-        "color": "green"
-    },
-    {
-        "first_name": "Anna Margaretha",
-        "last_name": "Constanz",
-        "birth_year": "1763",
-        "birth_place": {
-            "name": "Gro\u00dfen-Buseck",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "death_year": "1827",
-        "death_place": {
-            "name": "Oppenrod, Giessen, Hessen, Deutschland",
-            "lat": 50.5840626,
-            "lon": 8.8010953
         },
         "color": "green"
     },
@@ -3086,23 +2933,6 @@
             "lon": null
         },
         "death_year": "1855",
-        "death_place": {
-            "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
-            "lat": 50.6080778,
-            "lon": 8.7868595
-        },
-        "color": "orange"
-    },
-    {
-        "first_name": "Anna Margaretha",
-        "last_name": "Constanz",
-        "birth_year": "Unknown",
-        "birth_place": {
-            "name": "Unknown",
-            "lat": null,
-            "lon": null
-        },
-        "death_year": "1872",
         "death_place": {
             "name": "Grossen-Buseck, Gie\u00dfen, Hessen, Deutschland",
             "lat": 50.6080778,
