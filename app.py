@@ -33,7 +33,7 @@ def index(dataset="newton"):
     m = folium.Map(location=[40, -40], zoom_start=4)
     marker_cluster = MarkerCluster(
         max_cluster_radius=40,
-        disable_clustering_at_zoom=6,  # Stop clustering at zoom 6 (individual markers from 6+)
+        disable_clustering_at_zoom=8,  # Stop clustering at zoom 6 (individual markers from 6+)
         spiderfy_on_max_zoom=False,    # No spiderfying at max zoom
         spiderfy_distance_multiplier=1.5
     ).add_to(m)
