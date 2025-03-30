@@ -18,8 +18,11 @@ except FileNotFoundError:
 @app.route('/')
 def index():
     # Initialize map
-    m = folium.Map(location=[40, -36], zoom_start=4)
-    marker_cluster = MarkerCluster(max_cluster_radius=30, spiderfy_distance_multiplier=1.5).add_to(m)
+    m = folium.Map(location=[40, -38], zoom_start=4)
+    marker_cluster = MarkerCluster(max_cluster_radius=30,
+                                   disable_clustering_at_zoom=8,
+                                   spiderfy_on_max_zoom=False,
+                                   spiderfy_distance_multiplier=1.5).add_to(m)
 
     for person in genealogy_data:
         birth_place = person["birth_place"]
@@ -67,17 +70,19 @@ def index():
                     popup=folium.Popup(f"{full_name} ({death_year})", max_width=200)
                 ).add_to(marker_cluster)
 
-            # Connect with dotted line if different coordinates
+            # Connect with thinner, paler, curved line if different coordinates
             if (birth_place["lat"] and birth_place["lon"] and 
                 death_place["lat"] and death_place["lon"]):
-                folium.PolyLine(
+                BezierCurve(
                     locations=[
-                        [birth_place["lat"], birth_place["lon"]],
-                        [death_place["lat"], death_place["lon"]]
+                        [birth_place["lat"], birth_place["lon"], 0],  # Start point
+                        [death_place["lat"], death_place["lon"], 0]   # End point
                     ],
+                    control_points_scale=0.3,  # Controls curve height (0.1-0.5 range)
                     color=person["color"],
-                    weight=2,
-                    dash_array="5, 5"  # Dotted line
+                    weight=.5,                  # Thinner line
+                    opacity=0.3,               # Paler (semi-transparent)
+                    dash_array="5, 5"          # Keep dotted
                 ).add_to(m)
 
     return render_template('index.html', map_html=m._repr_html_())
