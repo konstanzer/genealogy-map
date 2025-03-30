@@ -19,7 +19,7 @@ except FileNotFoundError:
 def index():
     # Initialize map
     m = folium.Map(location=[40, -36], zoom_start=4)
-    marker_cluster = MarkerCluster(spiderfy_distance_multiplier=1.5).add_to(m)
+    marker_cluster = MarkerCluster(max_cluster_radius=30, spiderfy_distance_multiplier=1.5).add_to(m)
 
     for person in genealogy_data:
         birth_place = person["birth_place"]
