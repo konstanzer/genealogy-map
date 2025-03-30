@@ -918,6 +918,23 @@
         "color": "red"
     },
     {
+        "first_name": "Everly",
+        "last_name": "Booker",
+        "birth_year": "2025",
+        "birth_place": {
+            "name": "Albany NY",
+            "lat": 42.6511674,
+            "lon": -73.754968
+        },
+        "death_year": "Unknown",
+        "death_place": {
+            "name": "Unknown",
+            "lat": null,
+            "lon": null
+        },
+        "color": "pink"
+    },
+    {
         "first_name": "John Parsons",
         "last_name": "Newton",
         "birth_year": "1955",
